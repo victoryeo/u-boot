@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm/arch-sc520
+END
+pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm/arch-sc520/pci.h
+END
+sc520.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm/arch-sc520/sc520.h
+END
+ssi.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm/arch-sc520/ssi.h
+END

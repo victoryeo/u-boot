@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/amcc/taihu
+END
+lcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/amcc/taihu/lcd.c
+END
+update.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/amcc/taihu/update.c
+END
+taihu.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/amcc/taihu/taihu.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/amcc/taihu/Makefile
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/amcc/taihu/flash.c
+END

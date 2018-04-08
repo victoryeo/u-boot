@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/esg/ima3-mx53
+END
+ima3-mx53.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/esg/ima3-mx53/ima3-mx53.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/esg/ima3-mx53/Makefile
+END
+imximage.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/esg/ima3-mx53/imximage.cfg
+END

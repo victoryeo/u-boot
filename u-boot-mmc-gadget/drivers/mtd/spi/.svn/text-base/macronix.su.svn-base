@@ -1,0 +1,2 @@
+macronix.c:156:12:macronix_erase	24	static
+macronix.c:171:19:spi_flash_probe_macronix	32	static

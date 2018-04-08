@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/cloudengines/pogo_e02
+END
+pogo_e02.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/cloudengines/pogo_e02/pogo_e02.h
+END
+kwbimage.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/cloudengines/pogo_e02/kwbimage.cfg
+END
+pogo_e02.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/cloudengines/pogo_e02/pogo_e02.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/cloudengines/pogo_e02/Makefile
+END

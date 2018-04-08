@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/amirix/ap1000
+END
+powerspan.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/amirix/ap1000/powerspan.c
+END
+serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/amirix/ap1000/serial.c
+END
+ap1000.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/amirix/ap1000/ap1000.c
+END
+init.S
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/amirix/ap1000/init.S
+END
+powerspan.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/amirix/ap1000/powerspan.h
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/amirix/ap1000/u-boot.lds
+END
+ap1000.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/amirix/ap1000/ap1000.h
+END
+pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/amirix/ap1000/pci.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/amirix/ap1000/Makefile
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/amirix/ap1000/flash.c
+END

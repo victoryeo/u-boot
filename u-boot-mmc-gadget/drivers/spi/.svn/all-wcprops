@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/spi
+END
+omap3_spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/spi/omap3_spi.h
+END
+mxc_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/spi/mxc_spi.c
+END
+cf_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/spi/cf_spi.c
+END
+.depend.ka2000_spi
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/spi/.depend.ka2000_spi
+END
+fsl_espi.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/spi/fsl_espi.c
+END
+kirkwood_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/spi/kirkwood_spi.c
+END
+andes_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/spi/andes_spi.c
+END
+ka2000_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/spi/ka2000_spi.c
+END
+andes_spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/spi/andes_spi.h
+END
+atmel_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/spi/atmel_spi.c
+END
+ka2000_spi.su
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/spi/ka2000_spi.su
+END
+tegra_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/spi/tegra_spi.c
+END
+oc_tiny_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/spi/oc_tiny_spi.c
+END
+armada100_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/spi/armada100_spi.c
+END
+mpc52xx_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/spi/mpc52xx_spi.c
+END
+atmel_spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/spi/atmel_spi.h
+END
+mxs_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/spi/mxs_spi.c
+END
+altera_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/spi/altera_spi.c
+END
+atmel_dataflash_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/spi/atmel_dataflash_spi.c
+END
+sh_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/spi/sh_spi.c
+END
+soft_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/spi/soft_spi.c
+END
+davinci_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/spi/davinci_spi.c
+END
+bfin_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/spi/bfin_spi.c
+END
+mpc8xxx_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/spi/mpc8xxx_spi.c
+END
+omap3_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/spi/omap3_spi.c
+END
+sh_spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/spi/sh_spi.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/spi/Makefile
+END
+.depend
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/spi/.depend
+END
+davinci_spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/spi/davinci_spi.h
+END

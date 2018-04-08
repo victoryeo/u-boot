@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/freescale/mx53evk
+END
+mx53evk.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/freescale/mx53evk/mx53evk.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/freescale/mx53evk/Makefile
+END
+imximage.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/freescale/mx53evk/imximage.cfg
+END

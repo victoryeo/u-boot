@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/csb472
+END
+init.S
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/csb472/init.S
+END
+csb472.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/csb472/csb472.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/csb472/Makefile
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/freescale/mpc8641hpcn
+END
+law.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/freescale/mpc8641hpcn/law.c
+END
+ddr.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/freescale/mpc8641hpcn/ddr.c
+END
+mpc8641hpcn.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/freescale/mpc8641hpcn/mpc8641hpcn.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/freescale/mpc8641hpcn/Makefile
+END

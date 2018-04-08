@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/esd/cpci5200
+END
+cpci5200.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/esd/cpci5200/cpci5200.c
+END
+mt46v16m16-75.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/esd/cpci5200/mt46v16m16-75.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/esd/cpci5200/Makefile
+END
+strataflash.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/esd/cpci5200/strataflash.c
+END

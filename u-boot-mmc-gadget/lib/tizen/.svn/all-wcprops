@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/lib/tizen
+END
+tizen_hd_logo_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/lib/tizen/tizen_hd_logo_data.h
+END
+tizen.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/lib/tizen/tizen.c
+END
+tizen_hd_logo.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/lib/tizen/tizen_hd_logo.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/lib/tizen/Makefile
+END

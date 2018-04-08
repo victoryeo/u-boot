@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/sheldon/simpc8313
+END
+sdram.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/sheldon/simpc8313/sdram.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/sheldon/simpc8313/config.mk
+END
+simpc8313.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/sheldon/simpc8313/simpc8313.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/sheldon/simpc8313/Makefile
+END

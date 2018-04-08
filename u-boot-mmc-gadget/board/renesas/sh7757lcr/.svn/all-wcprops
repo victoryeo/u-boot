@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/renesas/sh7757lcr
+END
+sh7757lcr.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/renesas/sh7757lcr/sh7757lcr.c
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/renesas/sh7757lcr/u-boot.lds
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/renesas/sh7757lcr/Makefile
+END
+lowlevel_init.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/renesas/sh7757lcr/lowlevel_init.S
+END
+spi-boot.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/renesas/sh7757lcr/spi-boot.c
+END

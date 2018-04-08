@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/include/bedbug
+END
+tables.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/include/bedbug/tables.h
+END
+regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/include/bedbug/regs.h
+END
+type.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/include/bedbug/type.h
+END
+ppc.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/include/bedbug/ppc.h
+END
+bedbug.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/include/bedbug/bedbug.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/etx094
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/etx094/u-boot.lds
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/etx094/Makefile
+END
+etx094.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/etx094/etx094.c
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/etx094/flash.c
+END

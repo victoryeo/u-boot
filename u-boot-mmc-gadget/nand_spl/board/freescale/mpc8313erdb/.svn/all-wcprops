@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/nand_spl/board/freescale/mpc8313erdb
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/nand_spl/board/freescale/mpc8313erdb/u-boot.lds
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/nand_spl/board/freescale/mpc8313erdb/Makefile
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/freescale/mx25pdk
+END
+mx25pdk.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/freescale/mx25pdk/mx25pdk.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/freescale/mx25pdk/Makefile
+END
+lowlevel_init.S
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/freescale/mx25pdk/lowlevel_init.S
+END
+imximage.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/freescale/mx25pdk/imximage.cfg
+END

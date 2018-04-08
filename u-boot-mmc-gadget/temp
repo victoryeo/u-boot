@@ -1,0 +1,443 @@
+arch/arm/cpu/arm1136/.svn/text-base/start.S.svn-base:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm1136/.svn/text-base/start.S.svn-base:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm1136/start.S:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm1136/start.S:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/armv7/.svn/text-base/start.S.svn-base:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/armv7/.svn/text-base/start.S.svn-base:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/armv7/.svn/text-base/start.S.svn-base:#endif /* CONFIG_USE_IRQ */
+arch/arm/cpu/armv7/start.S:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/armv7/start.S:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/armv7/start.S:#endif /* CONFIG_USE_IRQ */
+arch/arm/cpu/arm_intcm/.svn/text-base/start.S.svn-base:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm_intcm/.svn/text-base/start.S.svn-base:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm_intcm/start.S:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm_intcm/start.S:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm926ejs/.svn/text-base/start.S.org.svn-base:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm926ejs/.svn/text-base/start.S.org.svn-base:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm926ejs/.svn/text-base/start.S.svn-base:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm926ejs/.svn/text-base/start.S.svn-base:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm926ejs/davinci/.svn/text-base/misc.c.svn-base:#ifndef CONFIG_USE_IRQ
+arch/arm/cpu/arm926ejs/davinci/misc.c:#ifndef CONFIG_USE_IRQ
+arch/arm/cpu/arm926ejs/start.S:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm926ejs/start.S:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm926ejs/mx28/.svn/text-base/start.S.svn-base:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm926ejs/mx28/start.S:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm926ejs/start.S.org:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm926ejs/start.S.org:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm926ejs/interrupts.c:# ifdef CONFIG_USE_IRQ
+arch/arm/cpu/ixp/.svn/text-base/Makefile.svn-base:COBJS-$(CONFIG_USE_IRQ)	+= interrupts.o
+arch/arm/cpu/ixp/.svn/text-base/start.S.svn-base:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/ixp/.svn/text-base/start.S.svn-base:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/ixp/Makefile:COBJS-$(CONFIG_USE_IRQ)	+= interrupts.o
+arch/arm/cpu/ixp/start.S:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/ixp/start.S:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/pxa/.svn/text-base/start.S.svn-base:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/pxa/.svn/text-base/start.S.svn-base:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/pxa/start.S:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/pxa/start.S:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/sa1100/.svn/text-base/cpu.c.svn-base:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/sa1100/.svn/text-base/start.S.svn-base:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/sa1100/.svn/text-base/start.S.svn-base:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/sa1100/cpu.c:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/sa1100/start.S:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/sa1100/start.S:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm925t/.svn/text-base/start.S.svn-base:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm925t/.svn/text-base/start.S.svn-base:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm925t/start.S:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm925t/start.S:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm946es/.svn/text-base/start.S.svn-base:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm946es/.svn/text-base/start.S.svn-base:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm946es/start.S:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm946es/start.S:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/s3c44b0/.svn/text-base/timer.c.svn-base:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/s3c44b0/.svn/text-base/timer.c.svn-base:#error CONFIG_USE_IRQ NOT supported
+arch/arm/cpu/s3c44b0/.svn/text-base/start.S.svn-base:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/s3c44b0/timer.c:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/s3c44b0/timer.c:#error CONFIG_USE_IRQ NOT supported
+arch/arm/cpu/s3c44b0/start.S:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/lh7a40x/.svn/text-base/start.S.svn-base:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/lh7a40x/.svn/text-base/start.S.svn-base:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/lh7a40x/start.S:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/lh7a40x/start.S:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm920t/.svn/text-base/Makefile.svn-base:COBJS-$(CONFIG_USE_IRQ)	+= interrupts.o
+arch/arm/cpu/arm920t/.svn/text-base/start.S.svn-base:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm920t/.svn/text-base/start.S.svn-base:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm920t/Makefile:COBJS-$(CONFIG_USE_IRQ)	+= interrupts.o
+arch/arm/cpu/arm920t/start.S:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm920t/start.S:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm920t/s3c24x0/.svn/text-base/Makefile.svn-base:COBJS-$(CONFIG_USE_IRQ) += interrupts.o
+arch/arm/cpu/arm920t/s3c24x0/Makefile:COBJS-$(CONFIG_USE_IRQ) += interrupts.o
+arch/arm/cpu/arm720t/.svn/text-base/interrupts.c.svn-base:# ifndef CONFIG_USE_IRQ
+arch/arm/cpu/arm720t/.svn/text-base/interrupts.c.svn-base:#  error CONFIG_USE_IRQ _must_ be defined when using CONFIG_S3C4510B
+arch/arm/cpu/arm720t/.svn/text-base/interrupts.c.svn-base:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm720t/.svn/text-base/interrupts.c.svn-base:#if defined(CONFIG_USE_IRQ) && defined(CONFIG_S3C4510B)
+arch/arm/cpu/arm720t/.svn/text-base/start.S.svn-base:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm720t/.svn/text-base/start.S.svn-base:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm720t/start.S:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm720t/start.S:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm720t/interrupts.c:# ifndef CONFIG_USE_IRQ
+arch/arm/cpu/arm720t/interrupts.c:#  error CONFIG_USE_IRQ _must_ be defined when using CONFIG_S3C4510B
+arch/arm/cpu/arm720t/interrupts.c:#ifdef CONFIG_USE_IRQ
+arch/arm/cpu/arm720t/interrupts.c:#if defined(CONFIG_USE_IRQ) && defined(CONFIG_S3C4510B)
+arch/arm/lib/.svn/text-base/interrupts.c.svn-base:#ifdef CONFIG_USE_IRQ
+arch/arm/lib/.svn/text-base/interrupts.c.svn-base:#ifndef CONFIG_USE_IRQ
+arch/arm/lib/.svn/text-base/board.c.svn-base:#ifdef CONFIG_USE_IRQ
+arch/arm/lib/.svn/text-base/board.c.svn-base:#ifdef CONFIG_USE_IRQ
+arch/arm/lib/board.c:#ifdef CONFIG_USE_IRQ
+arch/arm/lib/board.c:#ifdef CONFIG_USE_IRQ
+arch/arm/lib/interrupts.c:#ifdef CONFIG_USE_IRQ
+arch/arm/lib/interrupts.c:#ifndef CONFIG_USE_IRQ
+arch/nds32/cpu/n1213/.svn/text-base/start.S.svn-base:#ifdef CONFIG_USE_IRQ
+arch/nds32/cpu/n1213/start.S:#ifdef CONFIG_USE_IRQ
+arch/nds32/lib/.svn/text-base/board.c.svn-base:#if defined(CONFIG_USE_IRQ)
+arch/nds32/lib/.svn/text-base/board.c.svn-base:#ifdef CONFIG_USE_IRQ
+arch/nds32/lib/.svn/text-base/board.c.svn-base:#if defined(CONFIG_USE_IRQ)
+arch/nds32/lib/board.c:#if defined(CONFIG_USE_IRQ)
+arch/nds32/lib/board.c:#ifdef CONFIG_USE_IRQ
+arch/nds32/lib/board.c:#if defined(CONFIG_USE_IRQ)
+board/ti/tnetv107xevm/.svn/text-base/sdb_board.c.svn-base:#ifndef CONFIG_USE_IRQ
+board/ti/tnetv107xevm/sdb_board.c:#ifndef CONFIG_USE_IRQ
+board/davinci/da8xxevm/da850evm.c:#ifndef CONFIG_USE_IRQ
+board/davinci/da8xxevm/.svn/text-base/da830evm.c.svn-base:#ifndef CONFIG_USE_IRQ
+board/davinci/da8xxevm/.svn/text-base/da850evm.c.svn-base:#ifndef CONFIG_USE_IRQ
+board/davinci/da8xxevm/da830evm.c:#ifndef CONFIG_USE_IRQ
+board/davinci/ea20/.svn/text-base/ea20.c.svn-base:#ifndef CONFIG_USE_IRQ
+board/davinci/ea20/ea20.c:#ifndef CONFIG_USE_IRQ
+board/omicron/calimain/.svn/text-base/calimain.c.svn-base:#ifndef CONFIG_USE_IRQ
+board/omicron/calimain/calimain.c:#ifndef CONFIG_USE_IRQ
+board/enbw/enbw_cmc/.svn/text-base/enbw_cmc.c.svn-base:#ifndef CONFIG_USE_IRQ
+board/enbw/enbw_cmc/enbw_cmc.c:#ifndef CONFIG_USE_IRQ
+drivers/net/.svn/text-base/enc28j60.c.svn-base:#ifdef CONFIG_USE_IRQ
+drivers/net/.svn/text-base/enc28j60.c.svn-base:#ifdef CONFIG_USE_IRQ
+drivers/net/.svn/text-base/enc28j60.c.svn-base:#ifdef CONFIG_USE_IRQ
+drivers/net/enc28j60.c:#ifdef CONFIG_USE_IRQ
+drivers/net/enc28j60.c:#ifdef CONFIG_USE_IRQ
+drivers/net/enc28j60.c:#ifdef CONFIG_USE_IRQ
+include/configs/spear-common.h:#ifdef CONFIG_USE_IRQ
+include/configs/pm9g45.h:#ifdef CONFIG_USE_IRQ
+include/configs/pm9g45.h:#error CONFIG_USE_IRQ not supported
+include/configs/palmld.h:#ifdef	CONFIG_USE_IRQ
+include/configs/colibri_pxa270.h:#ifdef	CONFIG_USE_IRQ
+include/configs/davinci_dm355leopard.h:#undef CONFIG_USE_IRQ				/* No IRQ/FIQ in U-Boot */
+include/configs/cpuat91.h:#undef CONFIG_USE_IRQ
+include/configs/cpuat91.h:#if defined(CONFIG_USE_IRQ)
+include/configs/cpuat91.h:#error CONFIG_USE_IRQ not supported
+include/configs/zipitz2.h:#undef	CONFIG_USE_IRQ
+include/configs/zipitz2.h:#ifdef	CONFIG_USE_IRQ
+include/configs/.svn/text-base/omap3_mvblx.h.svn-base:#undef CONFIG_USE_IRQ				/* no support for IRQs */
+include/configs/.svn/text-base/pm9261.h.svn-base:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff	*/
+include/configs/.svn/text-base/pm9261.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/pm9261.h.svn-base:#error CONFIG_USE_IRQ not supported
+include/configs/.svn/text-base/omap3_evm_common.h.svn-base:#undef CONFIG_USE_IRQ			/* no support for IRQs */
+include/configs/.svn/text-base/dig297.h.svn-base:#undef CONFIG_USE_IRQ				/* no support for IRQs */
+include/configs/.svn/text-base/dig297.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/jornada.h.svn-base:#undef CONFIG_USE_IRQ
+include/configs/.svn/text-base/jadecpu.h.svn-base:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff	*/
+include/configs/.svn/text-base/jadecpu.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/jadecpu.h.svn-base:#error CONFIG_USE_IRQ not supported
+include/configs/.svn/text-base/versatile.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/trizepsiv.h.svn-base:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff */
+include/configs/.svn/text-base/trizepsiv.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/integratorap.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/omap3_overo.h.svn-base:#undef CONFIG_USE_IRQ				/* no support for IRQs */
+include/configs/.svn/text-base/omap3_pandora.h.svn-base:#undef CONFIG_USE_IRQ		/* no support for IRQs */
+include/configs/.svn/text-base/omap730p2.h.svn-base:#undef CONFIG_USE_IRQ			     /* we don't need IRQ/FIQ stuff */
+include/configs/.svn/text-base/omap730p2.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/smdk2410.h.svn-base:#undef CONFIG_USE_IRQ		/* we don't need IRQ/FIQ stuff */
+include/configs/.svn/text-base/smdk2410.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/meesc.h.svn-base:#undef CONFIG_USE_IRQ				/* don't need IRQ/FIQ stuff */
+include/configs/.svn/text-base/meesc.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/meesc.h.svn-base:# error CONFIG_USE_IRQ not supported
+include/configs/.svn/text-base/apollon.h.svn-base:#undef	CONFIG_USE_IRQ	/* no support for IRQs */
+include/configs/.svn/text-base/at91sam9m10g45ek.h.svn-base:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff	*/
+include/configs/.svn/text-base/at91sam9m10g45ek.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/at91sam9m10g45ek.h.svn-base:#error CONFIG_USE_IRQ not supported
+include/configs/.svn/text-base/ethernut5.h.svn-base:#undef CONFIG_USE_IRQ			/* Running w/o interrupts */
+include/configs/.svn/text-base/omap2420h4.h.svn-base:#undef CONFIG_USE_IRQ                 /* no support for IRQs */
+include/configs/.svn/text-base/omap2420h4.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/tricorder.h.svn-base:#undef CONFIG_USE_IRQ			/* no support for IRQs */
+include/configs/.svn/text-base/ka2000.h.orig.svn-base:#undef CONFIG_USE_IRQ
+include/configs/.svn/text-base/ka2000.h.orig.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/at91sam9rlek.h.svn-base:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff */
+include/configs/.svn/text-base/at91sam9rlek.h.svn-base:#undef CONFIG_USE_IRQ
+include/configs/.svn/text-base/davinci_dm6467evm.h.svn-base:#undef CONFIG_USE_IRQ				/* No IRQ/FIQ in U-Boot */
+include/configs/.svn/text-base/omap1510inn.h.svn-base:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff */
+include/configs/.svn/text-base/omap1510inn.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/otc570.h.svn-base:#undef	CONFIG_USE_IRQ				/* don't need IRQ/FIQ stuff */
+include/configs/.svn/text-base/otc570.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/otc570.h.svn-base:# error CONFIG_USE_IRQ not supported
+include/configs/.svn/text-base/vl_ma2sc.h.svn-base:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff	*/
+include/configs/.svn/text-base/vl_ma2sc.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/vl_ma2sc.h.svn-base:#error CONFIG_USE_IRQ not supported
+include/configs/.svn/text-base/origen.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/palmld.h.svn-base:#ifdef	CONFIG_USE_IRQ
+include/configs/.svn/text-base/ca9x4_ct_vxp.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/pm9g45.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/pm9g45.h.svn-base:#error CONFIG_USE_IRQ not supported
+include/configs/.svn/text-base/da830evm.h.svn-base:#undef CONFIG_USE_IRQ			/* No IRQ/FIQ in U-Boot */
+include/configs/.svn/text-base/mx1ads.h.svn-base:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff		*/
+include/configs/.svn/text-base/mx1ads.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/am335x_evm.h.svn-base:#undef CONFIG_USE_IRQ
+include/configs/.svn/text-base/colibri_pxa270.h.svn-base:#ifdef	CONFIG_USE_IRQ
+include/configs/.svn/text-base/xaeniax.h.svn-base:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff */
+include/configs/.svn/text-base/xaeniax.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/omap3_zoom1.h.svn-base:#undef CONFIG_USE_IRQ				/* no support for IRQs */
+include/configs/.svn/text-base/davinci_dm355evm.h.svn-base:#undef CONFIG_USE_IRQ				/* No IRQ/FIQ in U-Boot */
+include/configs/.svn/text-base/cm_t35.h.svn-base:#undef CONFIG_USE_IRQ				/* no support for IRQs */
+include/configs/.svn/text-base/SX1.h.svn-base:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff */
+include/configs/.svn/text-base/SX1.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/u8500_href.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/omap4_common.h.svn-base:#undef CONFIG_USE_IRQ				/* no support for IRQs */
+include/configs/.svn/text-base/omap4_common.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/am3517_evm.h.svn-base:#undef CONFIG_USE_IRQ				/* no support for IRQs */
+include/configs/.svn/text-base/smdkv310.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/palmtc.h.svn-base:#ifdef	CONFIG_USE_IRQ
+include/configs/.svn/text-base/ka2000_1108.h.svn-base:#undef CONFIG_USE_IRQ							
+include/configs/.svn/text-base/ka2000_1108.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/top9000.h.svn-base:#undef	CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff	*/
+include/configs/.svn/text-base/top9000.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/top9000.h.svn-base:#error CONFIG_USE_IRQ not supported
+include/configs/.svn/text-base/lubbock.h.svn-base:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff */
+include/configs/.svn/text-base/lubbock.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/davinci_schmoogie.h.svn-base:#undef	CONFIG_USE_IRQ			/* No IRQ/FIQ in U-Boot */
+include/configs/.svn/text-base/ka2000_0929.h.svn-base:#undef CONFIG_USE_IRQ							
+include/configs/.svn/text-base/ka2000_0929.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/tny_a9260.h.svn-base:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff	*/
+include/configs/.svn/text-base/tny_a9260.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/tny_a9260.h.svn-base:#error CONFIG_USE_IRQ not supported
+include/configs/.svn/text-base/highbank.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/VCMA9.h.svn-base:#undef CONFIG_USE_IRQ		/* we don't need IRQ/FIQ stuff */
+include/configs/.svn/text-base/VCMA9.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/tam3517-common.h.svn-base:#undef CONFIG_USE_IRQ				/* no support for IRQs */
+include/configs/.svn/text-base/sbc35_a9g20.h.svn-base:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff	*/
+include/configs/.svn/text-base/sbc35_a9g20.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/sbc35_a9g20.h.svn-base:#error CONFIG_USE_IRQ not supported
+include/configs/.svn/text-base/omap5_evm.h.svn-base:#undef CONFIG_USE_IRQ	/* no support for IRQs */
+include/configs/.svn/text-base/omap5_evm.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/davinci_dm355leopard.h.svn-base:#undef CONFIG_USE_IRQ				/* No IRQ/FIQ in U-Boot */
+include/configs/.svn/text-base/omap3_beagle.h.svn-base:#undef CONFIG_USE_IRQ				/* no support for IRQs */
+include/configs/.svn/text-base/omap3_sdp3430.h.svn-base:#undef CONFIG_USE_IRQ			/* no support for IRQs */
+include/configs/.svn/text-base/cm4008.h.svn-base:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff	*/
+include/configs/.svn/text-base/cm4008.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/pm9263.h.svn-base:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff	*/
+include/configs/.svn/text-base/pm9263.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/pm9263.h.svn-base:#error CONFIG_USE_IRQ not supported
+include/configs/.svn/text-base/omap3_logic.h.svn-base:#undef CONFIG_USE_IRQ			/* no support for IRQs */
+include/configs/.svn/text-base/nhk8815.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/davinci_dm365evm.h.svn-base:#undef CONFIG_USE_IRQ				/* No IRQ/FIQ in U-Boot */
+include/configs/.svn/text-base/snapper9260.h.svn-base:#undef CONFIG_USE_IRQ
+include/configs/.svn/text-base/ka2000.h.svn-base:#undef CONFIG_USE_IRQ
+include/configs/.svn/text-base/ka2000.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/afeb9260.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/afeb9260.h.svn-base:#error CONFIG_USE_IRQ not supported
+include/configs/.svn/text-base/at91sam9260ek.h.svn-base:#undef	CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff	*/
+include/configs/.svn/text-base/at91sam9260ek.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/at91sam9260ek.h.svn-base:#error CONFIG_USE_IRQ not supported
+include/configs/.svn/text-base/spear-common.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/omap3_zoom2.h.svn-base:#undef CONFIG_USE_IRQ		/* no support for IRQs */
+include/configs/.svn/text-base/davinci_sffsdr.h.svn-base:#undef CONFIG_USE_IRQ				/* No IRQ/FIQ in U-Boot */
+include/configs/.svn/text-base/ns9750dev.h.svn-base:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff */
+include/configs/.svn/text-base/ns9750dev.h.svn-base:#define CONFIG_USE_IRQ
+include/configs/.svn/text-base/ns9750dev.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/scb9328.h.svn-base:#undef	CONFIG_USE_IRQ		      /* don't need use IRQ/FIQ	   */
+include/configs/.svn/text-base/scb9328.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/davinci_dvevm.h.svn-base:#undef	CONFIG_USE_IRQ			/* No IRQ/FIQ in U-Boot */
+include/configs/.svn/text-base/vpac270.h.svn-base:#ifdef	CONFIG_USE_IRQ
+include/configs/.svn/text-base/davinci_sonata.h.svn-base:#undef	CONFIG_USE_IRQ			/* No IRQ/FIQ in U-Boot */
+include/configs/.svn/text-base/cpu9260.h.svn-base:#undef CONFIG_USE_IRQ
+include/configs/.svn/text-base/cpu9260.h.svn-base:#if defined(CONFIG_USE_IRQ)
+include/configs/.svn/text-base/cpu9260.h.svn-base:#error CONFIG_USE_IRQ not supported
+include/configs/.svn/text-base/omap5912osk.h.svn-base:#undef CONFIG_USE_IRQ	/* we don't need IRQ/FIQ stuff */
+include/configs/.svn/text-base/omap5912osk.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/cpuat91.h.svn-base:#undef CONFIG_USE_IRQ
+include/configs/.svn/text-base/cpuat91.h.svn-base:#if defined(CONFIG_USE_IRQ)
+include/configs/.svn/text-base/cpuat91.h.svn-base:#error CONFIG_USE_IRQ not supported
+include/configs/.svn/text-base/pxa255_idp.h.svn-base:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff */
+include/configs/.svn/text-base/pxa255_idp.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/ka2000_1118.h.svn-base:#undef CONFIG_USE_IRQ							
+include/configs/.svn/text-base/ka2000_1118.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/a320evb.h.svn-base:#undef CONFIG_USE_IRQ		/* we don't need IRQ/FIQ stuff */
+include/configs/.svn/text-base/a320evb.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/integratorcp.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/pdnb3.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/at91sam9263ek.h.svn-base:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff	*/
+include/configs/.svn/text-base/at91sam9263ek.h.svn-base:#undef CONFIG_USE_IRQ
+include/configs/.svn/text-base/cm41xx.h.svn-base:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff	*/
+include/configs/.svn/text-base/cm41xx.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/at91sam9261ek.h.svn-base:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff	*/
+include/configs/.svn/text-base/at91sam9261ek.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/at91sam9261ek.h.svn-base:#error CONFIG_USE_IRQ not supported
+include/configs/.svn/text-base/ka2000_boot1.h.svn-base:#undef CONFIG_USE_IRQ
+include/configs/.svn/text-base/ka2000_boot1.h.svn-base:#ifdef CONFIG_USE_IRQ
+include/configs/.svn/text-base/balloon3.h.svn-base:#ifdef	CONFIG_USE_IRQ
+include/configs/.svn/text-base/devkit8000.h.svn-base:#undef CONFIG_USE_IRQ			/* no support for IRQs */
+include/configs/.svn/text-base/am3517_crane.h.svn-base:#undef CONFIG_USE_IRQ				/* no support for IRQs */
+include/configs/.svn/text-base/zipitz2.h.svn-base:#undef	CONFIG_USE_IRQ
+include/configs/.svn/text-base/zipitz2.h.svn-base:#ifdef	CONFIG_USE_IRQ
+include/configs/.svn/text-base/cam_enc_4xx.h.svn-base:#undef CONFIG_USE_IRQ				/* No IRQ/FIQ in U-Boot */
+include/configs/lubbock.h:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff */
+include/configs/lubbock.h:#ifdef CONFIG_USE_IRQ
+include/configs/SX1.h:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff */
+include/configs/SX1.h:#ifdef CONFIG_USE_IRQ
+include/configs/at91sam9260ek.h:#undef	CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff	*/
+include/configs/at91sam9260ek.h:#ifdef CONFIG_USE_IRQ
+include/configs/at91sam9260ek.h:#error CONFIG_USE_IRQ not supported
+include/configs/omap3_logic.h:#undef CONFIG_USE_IRQ			/* no support for IRQs */
+include/configs/omap3_mvblx.h:#undef CONFIG_USE_IRQ				/* no support for IRQs */
+include/configs/ka2000_1108.h:#undef CONFIG_USE_IRQ							
+include/configs/ka2000_1108.h:#ifdef CONFIG_USE_IRQ
+include/configs/devkit8000.h:#undef CONFIG_USE_IRQ			/* no support for IRQs */
+include/configs/jadecpu.h:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff	*/
+include/configs/jadecpu.h:#ifdef CONFIG_USE_IRQ
+include/configs/jadecpu.h:#error CONFIG_USE_IRQ not supported
+include/configs/smdkv310.h:#ifdef CONFIG_USE_IRQ
+include/configs/u8500_href.h:#ifdef CONFIG_USE_IRQ
+include/configs/omap3_zoom1.h:#undef CONFIG_USE_IRQ				/* no support for IRQs */
+include/configs/davinci_dm6467evm.h:#undef CONFIG_USE_IRQ				/* No IRQ/FIQ in U-Boot */
+include/configs/ka2000_boot1.h:#undef CONFIG_USE_IRQ
+include/configs/ka2000_boot1.h:#ifdef CONFIG_USE_IRQ
+include/configs/ns9750dev.h:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff */
+include/configs/ns9750dev.h:#define CONFIG_USE_IRQ
+include/configs/ns9750dev.h:#ifdef CONFIG_USE_IRQ
+include/configs/tny_a9260.h:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff	*/
+include/configs/tny_a9260.h:#ifdef CONFIG_USE_IRQ
+include/configs/tny_a9260.h:#error CONFIG_USE_IRQ not supported
+include/configs/am335x_evm.h:#undef CONFIG_USE_IRQ
+include/configs/integratorap.h:#ifdef CONFIG_USE_IRQ
+include/configs/am3517_crane.h:#undef CONFIG_USE_IRQ				/* no support for IRQs */
+include/configs/omap3_pandora.h:#undef CONFIG_USE_IRQ		/* no support for IRQs */
+include/configs/omap2420h4.h:#undef CONFIG_USE_IRQ                 /* no support for IRQs */
+include/configs/omap2420h4.h:#ifdef CONFIG_USE_IRQ
+include/configs/omap3_evm_common.h:#undef CONFIG_USE_IRQ			/* no support for IRQs */
+include/configs/vpac270.h:#ifdef	CONFIG_USE_IRQ
+include/configs/ka2000_0929.h:#undef CONFIG_USE_IRQ							
+include/configs/ka2000_0929.h:#ifdef CONFIG_USE_IRQ
+include/configs/omap3_zoom2.h:#undef CONFIG_USE_IRQ		/* no support for IRQs */
+include/configs/cm41xx.h:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff	*/
+include/configs/cm41xx.h:#ifdef CONFIG_USE_IRQ
+include/configs/trizepsiv.h:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff */
+include/configs/trizepsiv.h:#ifdef CONFIG_USE_IRQ
+include/configs/cpu9260.h:#undef CONFIG_USE_IRQ
+include/configs/cpu9260.h:#if defined(CONFIG_USE_IRQ)
+include/configs/cpu9260.h:#error CONFIG_USE_IRQ not supported
+include/configs/at91sam9263ek.h:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff	*/
+include/configs/at91sam9263ek.h:#undef CONFIG_USE_IRQ
+include/configs/davinci_schmoogie.h:#undef	CONFIG_USE_IRQ			/* No IRQ/FIQ in U-Boot */
+include/configs/omap5912osk.h:#undef CONFIG_USE_IRQ	/* we don't need IRQ/FIQ stuff */
+include/configs/omap5912osk.h:#ifdef CONFIG_USE_IRQ
+include/configs/ethernut5.h:#undef CONFIG_USE_IRQ			/* Running w/o interrupts */
+include/configs/at91sam9261ek.h:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff	*/
+include/configs/at91sam9261ek.h:#ifdef CONFIG_USE_IRQ
+include/configs/at91sam9261ek.h:#error CONFIG_USE_IRQ not supported
+include/configs/dig297.h:#undef CONFIG_USE_IRQ				/* no support for IRQs */
+include/configs/dig297.h:#ifdef CONFIG_USE_IRQ
+include/configs/omap3_beagle.h:#undef CONFIG_USE_IRQ				/* no support for IRQs */
+include/configs/cm_t35.h:#undef CONFIG_USE_IRQ				/* no support for IRQs */
+include/configs/nhk8815.h:#ifdef CONFIG_USE_IRQ
+include/configs/pxa255_idp.h:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff */
+include/configs/pxa255_idp.h:#ifdef CONFIG_USE_IRQ
+include/configs/vl_ma2sc.h:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff	*/
+include/configs/vl_ma2sc.h:#ifdef CONFIG_USE_IRQ
+include/configs/vl_ma2sc.h:#error CONFIG_USE_IRQ not supported
+include/configs/jornada.h:#undef CONFIG_USE_IRQ
+include/configs/ka2000.h://#undef CONFIG_USE_IRQ
+include/configs/ka2000.h:#define CONFIG_USE_IRQ
+include/configs/ka2000.h:#ifdef CONFIG_USE_IRQ
+include/configs/am3517_evm.h:#undef CONFIG_USE_IRQ				/* no support for IRQs */
+include/configs/integratorcp.h:#ifdef CONFIG_USE_IRQ
+include/configs/scb9328.h:#undef	CONFIG_USE_IRQ		      /* don't need use IRQ/FIQ	   */
+include/configs/scb9328.h:#ifdef CONFIG_USE_IRQ
+include/configs/da830evm.h:#undef CONFIG_USE_IRQ			/* No IRQ/FIQ in U-Boot */
+include/configs/balloon3.h:#ifdef	CONFIG_USE_IRQ
+include/configs/origen.h:#ifdef CONFIG_USE_IRQ
+include/configs/omap3_sdp3430.h:#undef CONFIG_USE_IRQ			/* no support for IRQs */
+include/configs/a320evb.h:#undef CONFIG_USE_IRQ		/* we don't need IRQ/FIQ stuff */
+include/configs/a320evb.h:#ifdef CONFIG_USE_IRQ
+include/configs/cm4008.h:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff	*/
+include/configs/cm4008.h:#ifdef CONFIG_USE_IRQ
+include/configs/davinci_sffsdr.h:#undef CONFIG_USE_IRQ				/* No IRQ/FIQ in U-Boot */
+include/configs/xaeniax.h:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff */
+include/configs/xaeniax.h:#ifdef CONFIG_USE_IRQ
+include/configs/tricorder.h:#undef CONFIG_USE_IRQ			/* no support for IRQs */
+include/configs/omap5_evm.h:#undef CONFIG_USE_IRQ	/* no support for IRQs */
+include/configs/omap5_evm.h:#ifdef CONFIG_USE_IRQ
+include/configs/meesc.h:#undef CONFIG_USE_IRQ				/* don't need IRQ/FIQ stuff */
+include/configs/meesc.h:#ifdef CONFIG_USE_IRQ
+include/configs/meesc.h:# error CONFIG_USE_IRQ not supported
+include/configs/VCMA9.h:#undef CONFIG_USE_IRQ		/* we don't need IRQ/FIQ stuff */
+include/configs/VCMA9.h:#ifdef CONFIG_USE_IRQ
+include/configs/omap4_common.h:#undef CONFIG_USE_IRQ				/* no support for IRQs */
+include/configs/omap4_common.h:#ifdef CONFIG_USE_IRQ
+include/configs/tam3517-common.h:#undef CONFIG_USE_IRQ				/* no support for IRQs */
+include/configs/versatile.h:#ifdef CONFIG_USE_IRQ
+include/configs/afeb9260.h:#ifdef CONFIG_USE_IRQ
+include/configs/afeb9260.h:#error CONFIG_USE_IRQ not supported
+include/configs/otc570.h:#undef	CONFIG_USE_IRQ				/* don't need IRQ/FIQ stuff */
+include/configs/otc570.h:#ifdef CONFIG_USE_IRQ
+include/configs/otc570.h:# error CONFIG_USE_IRQ not supported
+include/configs/at91sam9rlek.h:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff */
+include/configs/at91sam9rlek.h:#undef CONFIG_USE_IRQ
+include/configs/cam_enc_4xx.h:#undef CONFIG_USE_IRQ				/* No IRQ/FIQ in U-Boot */
+include/configs/ka2000.h.orig:#undef CONFIG_USE_IRQ
+include/configs/ka2000.h.orig:#ifdef CONFIG_USE_IRQ
+include/configs/pm9263.h:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff	*/
+include/configs/pm9263.h:#ifdef CONFIG_USE_IRQ
+include/configs/pm9263.h:#error CONFIG_USE_IRQ not supported
+include/configs/highbank.h:#ifdef CONFIG_USE_IRQ
+include/configs/smdk2410.h:#undef CONFIG_USE_IRQ		/* we don't need IRQ/FIQ stuff */
+include/configs/smdk2410.h:#ifdef CONFIG_USE_IRQ
+include/configs/davinci_dm365evm.h:#undef CONFIG_USE_IRQ				/* No IRQ/FIQ in U-Boot */
+include/configs/davinci_dvevm.h:#undef	CONFIG_USE_IRQ			/* No IRQ/FIQ in U-Boot */
+include/configs/palmtc.h:#ifdef	CONFIG_USE_IRQ
+include/configs/pm9261.h:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff	*/
+include/configs/pm9261.h:#ifdef CONFIG_USE_IRQ
+include/configs/pm9261.h:#error CONFIG_USE_IRQ not supported
+include/configs/ca9x4_ct_vxp.h:#ifdef CONFIG_USE_IRQ
+include/configs/omap3_overo.h:#undef CONFIG_USE_IRQ				/* no support for IRQs */
+include/configs/apollon.h:#undef	CONFIG_USE_IRQ	/* no support for IRQs */
+include/configs/at91sam9m10g45ek.h:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff	*/
+include/configs/at91sam9m10g45ek.h:#ifdef CONFIG_USE_IRQ
+include/configs/at91sam9m10g45ek.h:#error CONFIG_USE_IRQ not supported
+include/configs/davinci_dm355evm.h:#undef CONFIG_USE_IRQ				/* No IRQ/FIQ in U-Boot */
+include/configs/pdnb3.h:#ifdef CONFIG_USE_IRQ
+include/configs/ka2000_1118.h:#undef CONFIG_USE_IRQ							
+include/configs/ka2000_1118.h:#ifdef CONFIG_USE_IRQ
+include/configs/omap730p2.h:#undef CONFIG_USE_IRQ			     /* we don't need IRQ/FIQ stuff */
+include/configs/omap730p2.h:#ifdef CONFIG_USE_IRQ
+include/configs/sbc35_a9g20.h:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff	*/
+include/configs/sbc35_a9g20.h:#ifdef CONFIG_USE_IRQ
+include/configs/sbc35_a9g20.h:#error CONFIG_USE_IRQ not supported
+include/configs/mx1ads.h:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff		*/
+include/configs/mx1ads.h:#ifdef CONFIG_USE_IRQ
+include/configs/davinci_sonata.h:#undef	CONFIG_USE_IRQ			/* No IRQ/FIQ in U-Boot */
+include/configs/snapper9260.h:#undef CONFIG_USE_IRQ
+include/configs/omap1510inn.h:#undef CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff */
+include/configs/omap1510inn.h:#ifdef CONFIG_USE_IRQ
+include/configs/top9000.h:#undef	CONFIG_USE_IRQ			/* we don't need IRQ/FIQ stuff	*/
+include/configs/top9000.h:#ifdef CONFIG_USE_IRQ
+include/configs/top9000.h:#error CONFIG_USE_IRQ not supported
+include/autoconf.mk:CONFIG_USE_IRQ=y
+patchs/.svn/text-base/0001-KeyASIC-patches-for-u-boot-2012.07.patch.svn-base:+#undef CONFIG_USE_IRQ
+patchs/.svn/text-base/0001-KeyASIC-patches-for-u-boot-2012.07.patch.svn-base:+#ifdef CONFIG_USE_IRQ
+patchs/.svn/text-base/0001-KeyASIC-patches-for-u-boot-2012.07.patch.svn-base:+#undef CONFIG_USE_IRQ							
+patchs/.svn/text-base/0001-KeyASIC-patches-for-u-boot-2012.07.patch.svn-base:+#ifdef CONFIG_USE_IRQ
+patchs/.svn/text-base/0001-KeyASIC-patches-for-u-boot-2012.07.patch.svn-base:+#undef CONFIG_USE_IRQ							
+patchs/.svn/text-base/0001-KeyASIC-patches-for-u-boot-2012.07.patch.svn-base:+#ifdef CONFIG_USE_IRQ
+patchs/.svn/text-base/0001-KeyASIC-patches-for-u-boot-2012.07.patch.svn-base:+#undef CONFIG_USE_IRQ							
+patchs/.svn/text-base/0001-KeyASIC-patches-for-u-boot-2012.07.patch.svn-base:+#ifdef CONFIG_USE_IRQ
+patchs/.svn/text-base/0001-KeyASIC-patches-for-u-boot-2012.07.patch.svn-base:+#undef CONFIG_USE_IRQ
+patchs/.svn/text-base/0001-KeyASIC-patches-for-u-boot-2012.07.patch.svn-base:+#ifdef CONFIG_USE_IRQ
+patchs/.svn/text-base/0002-Fix-go-0-failed-move-ka2000_spi.c-from-arch-arm-cpu-.patch.svn-base: #undef CONFIG_USE_IRQ
+patchs/.svn/text-base/0002-Fix-go-0-failed-move-ka2000_spi.c-from-arch-arm-cpu-.patch.svn-base: #ifdef CONFIG_USE_IRQ
+patchs/0001-KeyASIC-patches-for-u-boot-2012.07.patch:+#undef CONFIG_USE_IRQ
+patchs/0001-KeyASIC-patches-for-u-boot-2012.07.patch:+#ifdef CONFIG_USE_IRQ
+patchs/0001-KeyASIC-patches-for-u-boot-2012.07.patch:+#undef CONFIG_USE_IRQ							
+patchs/0001-KeyASIC-patches-for-u-boot-2012.07.patch:+#ifdef CONFIG_USE_IRQ
+patchs/0001-KeyASIC-patches-for-u-boot-2012.07.patch:+#undef CONFIG_USE_IRQ							
+patchs/0001-KeyASIC-patches-for-u-boot-2012.07.patch:+#ifdef CONFIG_USE_IRQ
+patchs/0001-KeyASIC-patches-for-u-boot-2012.07.patch:+#undef CONFIG_USE_IRQ							
+patchs/0001-KeyASIC-patches-for-u-boot-2012.07.patch:+#ifdef CONFIG_USE_IRQ
+patchs/0001-KeyASIC-patches-for-u-boot-2012.07.patch:+#undef CONFIG_USE_IRQ
+patchs/0001-KeyASIC-patches-for-u-boot-2012.07.patch:+#ifdef CONFIG_USE_IRQ
+patchs/0002-Fix-go-0-failed-move-ka2000_spi.c-from-arch-arm-cpu-.patch: #undef CONFIG_USE_IRQ
+patchs/0002-Fix-go-0-failed-move-ka2000_spi.c-from-arch-arm-cpu-.patch: #ifdef CONFIG_USE_IRQ

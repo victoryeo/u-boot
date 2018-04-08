@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/scb9328
+END
+intel.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/scb9328/intel.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/scb9328/Makefile
+END
+lowlevel_init.S
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/scb9328/lowlevel_init.S
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/scb9328/flash.c
+END
+scb9328.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/scb9328/scb9328.c
+END

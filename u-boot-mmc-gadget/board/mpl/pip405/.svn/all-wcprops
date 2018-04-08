@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/mpl/pip405
+END
+pip405.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/mpl/pip405/pip405.c
+END
+init.S
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/mpl/pip405/init.S
+END
+cmd_pip405.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/mpl/pip405/cmd_pip405.c
+END
+pip405.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/mpl/pip405/pip405.h
+END
+u-boot.lds.debug
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/mpl/pip405/u-boot.lds.debug
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/mpl/pip405/Makefile
+END

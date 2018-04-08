@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/mpl/vcma9
+END
+vcma9.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/mpl/vcma9/vcma9.c
+END
+cmd_vcma9.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/mpl/vcma9/cmd_vcma9.c
+END
+vcma9.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/mpl/vcma9/vcma9.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/mpl/vcma9/Makefile
+END
+lowlevel_init.S
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/mpl/vcma9/lowlevel_init.S
+END

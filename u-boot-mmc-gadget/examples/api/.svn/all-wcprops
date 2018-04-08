@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/examples/api
+END
+glue.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/examples/api/glue.h
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/examples/api/.gitignore
+END
+demo.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/examples/api/demo.c
+END
+crt0.S
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/examples/api/crt0.S
+END
+libgenwrap.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/examples/api/libgenwrap.c
+END
+.depend
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/examples/api/.depend
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/examples/api/Makefile
+END
+glue.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/examples/api/glue.c
+END

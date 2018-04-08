@@ -1,0 +1,6 @@
+cache-cp15.c:134:6:icache_enable	0	static
+cache-cp15.c:139:6:icache_disable	0	static
+cache-cp15.c:144:5:icache_status	0	static
+cache-cp15.c:166:6:dcache_enable	0	static
+cache-cp15.c:171:6:dcache_disable	0	static
+cache-cp15.c:176:5:dcache_status	0	static

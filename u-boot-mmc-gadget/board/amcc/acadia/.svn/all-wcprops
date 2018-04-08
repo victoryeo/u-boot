@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/amcc/acadia
+END
+acadia.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/amcc/acadia/acadia.c
+END
+u-boot-nand.lds
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/amcc/acadia/u-boot-nand.lds
+END
+cmd_acadia.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/amcc/acadia/cmd_acadia.c
+END
+pll.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/amcc/acadia/pll.c
+END
+memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/amcc/acadia/memory.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/amcc/acadia/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/amcc/acadia/Makefile
+END

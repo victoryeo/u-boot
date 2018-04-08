@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/xes/xpedite1000
+END
+init.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/xes/xpedite1000/init.S
+END
+xpedite1000.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/xes/xpedite1000/xpedite1000.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/xes/xpedite1000/config.mk
+END
+u-boot.lds.debug
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/xes/xpedite1000/u-boot.lds.debug
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/xes/xpedite1000/Makefile
+END

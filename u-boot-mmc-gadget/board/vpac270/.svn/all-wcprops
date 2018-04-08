@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/vpac270
+END
+u-boot-spl.lds
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/vpac270/u-boot-spl.lds
+END
+onenand.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/vpac270/onenand.c
+END
+vpac270.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/vpac270/vpac270.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/vpac270/Makefile
+END

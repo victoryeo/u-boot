@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/freescale/p1023rds
+END
+bcsr.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/freescale/p1023rds/bcsr.h
+END
+p1023rds.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/freescale/p1023rds/p1023rds.c
+END
+tlb.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/freescale/p1023rds/tlb.c
+END
+law.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/freescale/p1023rds/law.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/freescale/p1023rds/Makefile
+END

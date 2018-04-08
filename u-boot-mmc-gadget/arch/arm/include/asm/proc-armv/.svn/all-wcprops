@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/proc-armv
+END
+ptrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/proc-armv/ptrace.h
+END
+processor.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/proc-armv/processor.h
+END
+system.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/proc-armv/system.h
+END
+domain.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/proc-armv/domain.h
+END

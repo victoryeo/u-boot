@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/actux3
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/actux3/u-boot.lds
+END
+actux3.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/actux3/actux3.c
+END
+actux3_hw.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/actux3/actux3_hw.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/actux3/Makefile
+END

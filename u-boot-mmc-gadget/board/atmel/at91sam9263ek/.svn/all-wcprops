@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/atmel/at91sam9263ek
+END
+at91sam9263ek.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/atmel/at91sam9263ek/at91sam9263ek.c
+END
+led.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/atmel/at91sam9263ek/led.c
+END
+partition.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/atmel/at91sam9263ek/partition.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/atmel/at91sam9263ek/Makefile
+END

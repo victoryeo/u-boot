@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/stx/stxssa
+END
+tlb.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/stx/stxssa/tlb.c
+END
+law.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/stx/stxssa/law.c
+END
+stxssa.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/stx/stxssa/stxssa.c
+END
+ddr.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/stx/stxssa/ddr.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/stx/stxssa/Makefile
+END

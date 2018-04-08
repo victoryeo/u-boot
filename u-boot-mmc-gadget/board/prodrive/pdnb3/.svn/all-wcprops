@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/prodrive/pdnb3
+END
+nand.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/prodrive/pdnb3/nand.c
+END
+pdnb3.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/prodrive/pdnb3/pdnb3.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/prodrive/pdnb3/Makefile
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/prodrive/pdnb3/flash.c
+END

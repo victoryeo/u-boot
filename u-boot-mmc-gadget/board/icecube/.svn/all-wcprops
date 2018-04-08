@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/icecube
+END
+mt46v32m16.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/icecube/mt46v32m16.h
+END
+icecube.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/icecube/icecube.c
+END
+mt48lc16m16a2-75.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/icecube/mt48lc16m16a2-75.h
+END
+mt46v16m16-75.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/icecube/mt46v16m16-75.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/icecube/Makefile
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/icecube/flash.c
+END

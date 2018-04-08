@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/tqc/tqm85xx
+END
+tqm85xx.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/tqc/tqm85xx/tqm85xx.c
+END
+nand.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/tqc/tqm85xx/nand.c
+END
+tlb.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/tqc/tqm85xx/tlb.c
+END
+law.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/tqc/tqm85xx/law.c
+END
+sdram.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/tqc/tqm85xx/sdram.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/tqc/tqm85xx/Makefile
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/esd/cpci2dp
+END
+cpci2dp.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/esd/cpci2dp/cpci2dp.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/esd/cpci2dp/Makefile
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/esd/cpci2dp/flash.c
+END

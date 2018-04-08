@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc8xxx/ddr
+END
+ddr.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc8xxx/ddr/ddr.h
+END
+lc_common_dimm_params.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc8xxx/ddr/lc_common_dimm_params.c
+END
+ddr1_dimm_params.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc8xxx/ddr/ddr1_dimm_params.c
+END
+ctrl_regs.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc8xxx/ddr/ctrl_regs.c
+END
+ddr2_dimm_params.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc8xxx/ddr/ddr2_dimm_params.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc8xxx/ddr/main.c
+END
+ddr3_dimm_params.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc8xxx/ddr/ddr3_dimm_params.c
+END
+common_timing_params.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc8xxx/ddr/common_timing_params.h
+END
+options.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc8xxx/ddr/options.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc8xxx/ddr/Makefile
+END
+interactive.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc8xxx/ddr/interactive.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc8xxx/ddr/util.c
+END

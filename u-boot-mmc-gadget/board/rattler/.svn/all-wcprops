@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/rattler
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/rattler/Makefile
+END
+rattler.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/rattler/rattler.c
+END

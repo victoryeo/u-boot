@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/armv7/s5p-common
+END
+wdt.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/armv7/s5p-common/wdt.c
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/armv7/s5p-common/timer.c
+END
+cpu_info.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/armv7/s5p-common/cpu_info.c
+END
+pwm.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/armv7/s5p-common/pwm.c
+END
+sromc.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/armv7/s5p-common/sromc.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/armv7/s5p-common/Makefile
+END

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/i2c
+END
+tegra_i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/i2c/tegra_i2c.c
+END
+omap1510_i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/i2c/omap1510_i2c.c
+END
+s3c24x0_i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/i2c/s3c24x0_i2c.c
+END
+mxs_i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/i2c/mxs_i2c.c
+END
+sh_i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/i2c/sh_i2c.c
+END
+soft_i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/i2c/soft_i2c.c
+END
+davinci_i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/i2c/davinci_i2c.c
+END
+bfin-twi_i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/i2c/bfin-twi_i2c.c
+END
+u8500_i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/i2c/u8500_i2c.c
+END
+omap24xx_i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/i2c/omap24xx_i2c.c
+END
+mv_i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/i2c/mv_i2c.c
+END
+s3c44b0_i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/i2c/s3c44b0_i2c.c
+END
+fsl_i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/i2c/fsl_i2c.c
+END
+ppc4xx_i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/i2c/ppc4xx_i2c.c
+END
+u8500_i2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/i2c/u8500_i2c.h
+END
+omap24xx_i2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/i2c/omap24xx_i2c.h
+END
+mxc_i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/i2c/mxc_i2c.c
+END
+mv_i2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/i2c/mv_i2c.h
+END
+designware_i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/i2c/designware_i2c.c
+END
+tsi108_i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/i2c/tsi108_i2c.c
+END
+sh_sh7734_i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/i2c/sh_sh7734_i2c.c
+END
+pca9564_i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/i2c/pca9564_i2c.c
+END
+mvtwsi.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/i2c/mvtwsi.c
+END
+designware_i2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/i2c/designware_i2c.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/i2c/Makefile
+END

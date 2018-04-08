@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-kirkwood
+END
+kirkwood.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-kirkwood/kirkwood.h
+END
+kw88f6192.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-kirkwood/kw88f6192.h
+END
+spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-kirkwood/spi.h
+END
+mpp.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-kirkwood/mpp.h
+END
+gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-kirkwood/gpio.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-kirkwood/config.h
+END
+cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-kirkwood/cpu.h
+END
+kw88f6281.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-kirkwood/kw88f6281.h
+END

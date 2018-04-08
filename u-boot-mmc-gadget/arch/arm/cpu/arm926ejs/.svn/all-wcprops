@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm926ejs
+END
+.depend.cache
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm926ejs/.depend.cache
+END
+.depend.cpu
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm926ejs/.depend.cpu
+END
+start.S.org
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm926ejs/start.S.org
+END
+cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm926ejs/cache.c
+END
+cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm926ejs/cpu.c
+END
+cache.su
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm926ejs/cache.su
+END
+.depend.start
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm926ejs/.depend.start
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm926ejs/config.mk
+END
+cpu.su
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm926ejs/cpu.su
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm926ejs/Makefile
+END
+.depend
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm926ejs/.depend
+END
+start.S
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm926ejs/start.S
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/esd/pmc405de
+END
+pmc405de.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/esd/pmc405de/pmc405de.c
+END
+chip_config.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/esd/pmc405de/chip_config.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/esd/pmc405de/Makefile
+END

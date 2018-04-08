@@ -1,0 +1,14 @@
+serial.c:124:12:0	8	static
+serial.c:157:5:serial_init	8	static
+serial.c:187:1:_serial_putc	16	static
+serial.c:196:1:_serial_putc_raw	0	static
+serial.c:202:1:_serial_puts	16	static
+serial.c:211:1:_serial_getc	8	static
+serial.c:217:1:_serial_tstc	0	static
+serial.c:223:1:_serial_setbrg	8	static
+serial.c:239:1:serial_putc	0	static
+serial.c:253:1:serial_putc_raw	0	static
+serial.c:267:1:serial_puts	0	static
+serial.c:281:1:serial_getc	0	static
+serial.c:295:1:serial_tstc	0	static
+serial.c:309:1:serial_setbrg	0	static

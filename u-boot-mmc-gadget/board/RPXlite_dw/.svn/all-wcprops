@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/RPXlite_dw
+END
+RPXlite_dw.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/RPXlite_dw/RPXlite_dw.c
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/RPXlite_dw/u-boot.lds
+END
+u-boot.lds.debug
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/RPXlite_dw/u-boot.lds.debug
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/RPXlite_dw/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/RPXlite_dw/README
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/RPXlite_dw/flash.c
+END

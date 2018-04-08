@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/esd/voh405
+END
+logo_320_240_4bpp.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/esd/voh405/logo_320_240_4bpp.c
+END
+voh405.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/esd/voh405/voh405.c
+END
+fpgadata.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/esd/voh405/fpgadata.c
+END
+logo_640_480_24bpp.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/esd/voh405/logo_640_480_24bpp.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/esd/voh405/Makefile
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/esd/voh405/flash.c
+END

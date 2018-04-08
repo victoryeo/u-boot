@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm
+END
+global_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm/global_data.h
+END
+ibmpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm/ibmpc.h
+END
+interrupt.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm/interrupt.h
+END
+relocate.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm/relocate.h
+END
+byteorder.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm/byteorder.h
+END
+ist.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm/ist.h
+END
+bitops.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm/bitops.h
+END
+cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm/cache.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm/types.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm/config.h
+END
+u-boot.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm/u-boot.h
+END
+string.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm/string.h
+END
+unaligned.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm/unaligned.h
+END
+io.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm/io.h
+END
+processor-flags.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm/processor-flags.h
+END
+ioctl.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm/ioctl.h
+END
+i8254.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm/i8254.h
+END
+pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm/pci.h
+END
+zimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm/zimage.h
+END
+e820.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm/e820.h
+END
+ptrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm/ptrace.h
+END
+processor.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm/processor.h
+END
+i8259.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm/i8259.h
+END
+bootparam.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm/bootparam.h
+END
+init_helpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm/init_helpers.h
+END
+errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm/errno.h
+END
+init_wrappers.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm/init_wrappers.h
+END
+posix_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm/posix_types.h
+END
+realmode.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm/realmode.h
+END
+u-boot-x86.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/include/asm/u-boot-x86.h
+END

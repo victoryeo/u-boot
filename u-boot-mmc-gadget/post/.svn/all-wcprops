@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/post
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/post/rules.mk
+END
+tests.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/post/tests.c
+END
+post.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/post/post.c
+END
+.depend
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/post/.depend
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/post/Makefile
+END

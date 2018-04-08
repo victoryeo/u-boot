@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx
+END
+release.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/release.S
+END
+speed.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/speed.c
+END
+ddr-gen1.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/ddr-gen1.c
+END
+ddr-gen2.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/ddr-gen2.c
+END
+ddr-gen3.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/ddr-gen3.c
+END
+liodn.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/liodn.c
+END
+p2041_ids.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/p2041_ids.c
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/u-boot.lds
+END
+p1021_serdes.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/p1021_serdes.c
+END
+p1023_serdes.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/p1023_serdes.c
+END
+cpu_init_nand.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/cpu_init_nand.c
+END
+p4080_ids.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/p4080_ids.c
+END
+p2041_serdes.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/p2041_serdes.c
+END
+mp.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/mp.c
+END
+p3041_serdes.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/p3041_serdes.c
+END
+fdt.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/fdt.c
+END
+commproc.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/commproc.c
+END
+mpc8569_serdes.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/mpc8569_serdes.c
+END
+mp.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/mp.h
+END
+tlb.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/tlb.c
+END
+ether_fcc.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/ether_fcc.c
+END
+u-boot-nand.lds
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/u-boot-nand.lds
+END
+cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/cpu.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/Makefile
+END
+qe_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/qe_io.c
+END
+resetvec.S
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/resetvec.S
+END
+cmd_errata.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/cmd_errata.c
+END
+u-boot-nand_spl.lds
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/u-boot-nand_spl.lds
+END
+cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/cache.c
+END
+p5020_ids.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/p5020_ids.c
+END
+p1010_serdes.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/p1010_serdes.c
+END
+cpu_init_early.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/cpu_init_early.c
+END
+p3041_ids.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/p3041_ids.c
+END
+p3060_ids.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/p3060_ids.c
+END
+serial_scc.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/serial_scc.c
+END
+p2020_serdes.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/p2020_serdes.c
+END
+fsl_corenet_serdes.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/fsl_corenet_serdes.c
+END
+p1022_serdes.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/p1022_serdes.c
+END
+mpc8544_serdes.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/mpc8544_serdes.c
+END
+mpc8572_serdes.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/mpc8572_serdes.c
+END
+mpc8536_serdes.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/mpc8536_serdes.c
+END
+cpu_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/cpu_init.c
+END
+p5020_serdes.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/p5020_serdes.c
+END
+pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/pci.c
+END
+mpc8548_serdes.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/mpc8548_serdes.c
+END
+fsl_corenet_serdes.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/fsl_corenet_serdes.h
+END
+p3060_serdes.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/p3060_serdes.c
+END
+start.S
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/start.S
+END
+fixed_ivor.S
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/fixed_ivor.S
+END
+mpc8568_serdes.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/mpc8568_serdes.c
+END
+interrupts.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/interrupts.c
+END
+p4080_serdes.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/p4080_serdes.c
+END
+portals.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/portals.c
+END
+traps.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc85xx/traps.c
+END

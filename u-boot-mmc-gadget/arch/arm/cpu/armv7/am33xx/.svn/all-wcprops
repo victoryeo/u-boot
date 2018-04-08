@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/armv7/am33xx
+END
+emif4.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/armv7/am33xx/emif4.c
+END
+board.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/armv7/am33xx/board.c
+END
+ddr.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/armv7/am33xx/ddr.c
+END
+sys_info.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/armv7/am33xx/sys_info.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/armv7/am33xx/config.mk
+END
+clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/armv7/am33xx/clock.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/armv7/am33xx/Makefile
+END

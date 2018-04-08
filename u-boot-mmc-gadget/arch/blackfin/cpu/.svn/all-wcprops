@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/cpu
+END
+initcode.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/cpu/initcode.c
+END
+gpio.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/cpu/gpio.c
+END
+watchdog.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/cpu/watchdog.c
+END
+initcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/cpu/initcode.h
+END
+init.lds.S
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/cpu/init.lds.S
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/cpu/u-boot.lds
+END
+bootrom-asm-offsets.awk
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/cpu/bootrom-asm-offsets.awk
+END
+bootrom-asm-offsets.c.in
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/cpu/bootrom-asm-offsets.c.in
+END
+interrupt.S
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/cpu/interrupt.S
+END
+bootcount.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/cpu/bootcount.c
+END
+start.S
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/cpu/start.S
+END
+interrupts.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/cpu/interrupts.c
+END
+serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/cpu/serial.c
+END
+os_log.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/cpu/os_log.c
+END
+reset.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/cpu/reset.c
+END
+init.S
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/cpu/init.S
+END
+cache.S
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/cpu/cache.S
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/cpu/.gitignore
+END
+serial.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/cpu/serial.h
+END
+jtag-console.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/cpu/jtag-console.c
+END
+cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/cpu/cpu.c
+END
+traps.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/cpu/traps.c
+END
+cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/cpu/cpu.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/cpu/Makefile
+END

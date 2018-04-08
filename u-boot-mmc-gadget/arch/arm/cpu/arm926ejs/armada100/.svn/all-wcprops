@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm926ejs/armada100
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm926ejs/armada100/timer.c
+END
+dram.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm926ejs/armada100/dram.c
+END
+cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm926ejs/armada100/cpu.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm926ejs/armada100/Makefile
+END

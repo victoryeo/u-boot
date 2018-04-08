@@ -1,0 +1,17 @@
+ohci.h:471:1:td_alloc	0	static
+ohci-hcd.c:593:12:ep_rev	8	static
+ohci-hcd.c:160:13:urb_free_priv	8	static
+ohci-hcd.c:138:19:0	0	static
+ohci-hcd.c:144:19:3	0	static
+ohci-hcd.c:823:13:6	24	static
+ohci-hcd.c:875:13:7	40	static
+ohci-hcd.c:1641:12:17	8	static
+ohci-hcd.c:1861:13:19	0	static
+ohci-hcd.c:415:5:sohci_submit_job	64	static
+ohci-hcd.c:1233:5:rh_check_port_status	24	static
+ohci-hcd.c:1491:5:submit_common_msg	64	static
+ohci-hcd.c:1593:5:submit_bulk_msg	16	static
+ohci-hcd.c:1600:5:submit_control_msg	56	static
+ohci-hcd.c:1627:5:submit_int_msg	16	static
+ohci-hcd.c:1876:5:usb_lowlevel_init	24	static
+ohci-hcd.c:1982:5:usb_lowlevel_stop	8	static

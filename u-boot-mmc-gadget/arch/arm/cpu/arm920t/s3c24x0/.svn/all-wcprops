@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm920t/s3c24x0
+END
+interrupts.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm920t/s3c24x0/interrupts.c
+END
+speed.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm920t/s3c24x0/speed.c
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm920t/s3c24x0/timer.c
+END
+usb_ohci.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm920t/s3c24x0/usb_ohci.h
+END
+cpu_info.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm920t/s3c24x0/cpu_info.c
+END
+usb.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm920t/s3c24x0/usb.c
+END
+usb_ohci.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm920t/s3c24x0/usb_ohci.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm920t/s3c24x0/Makefile
+END

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc8260
+END
+ether_scc.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc8260/ether_scc.c
+END
+speed.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc8260/speed.c
+END
+speed.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc8260/speed.h
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc8260/u-boot.lds
+END
+serial_scc.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc8260/serial_scc.c
+END
+cpu_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc8260/cpu_init.c
+END
+pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc8260/pci.c
+END
+i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc8260/i2c.c
+END
+start.S
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc8260/start.S
+END
+interrupts.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc8260/interrupts.c
+END
+commproc.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc8260/commproc.c
+END
+serial_smc.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc8260/serial_smc.c
+END
+ether_fcc.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc8260/ether_fcc.c
+END
+bedbug_603e.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc8260/bedbug_603e.c
+END
+kgdb.S
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc8260/kgdb.S
+END
+cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc8260/cpu.c
+END
+traps.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc8260/traps.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc8260/config.mk
+END
+spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc8260/spi.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/cpu/mpc8260/Makefile
+END

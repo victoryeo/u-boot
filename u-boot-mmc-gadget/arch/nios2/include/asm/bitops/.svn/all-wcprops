@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/nios2/include/asm/bitops
+END
+atomic.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/nios2/include/asm/bitops/atomic.h
+END
+ffs.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/nios2/include/asm/bitops/ffs.h
+END
+non-atomic.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/nios2/include/asm/bitops/non-atomic.h
+END

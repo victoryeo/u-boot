@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-tegra2
+END
+usb.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-tegra2/usb.h
+END
+scu.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-tegra2/scu.h
+END
+warmboot.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-tegra2/warmboot.h
+END
+clock.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-tegra2/clock.h
+END
+gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-tegra2/gpio.h
+END
+tegra_i2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-tegra2/tegra_i2c.h
+END
+pmu.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-tegra2/pmu.h
+END
+clk_rst.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-tegra2/clk_rst.h
+END
+sys_proto.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-tegra2/sys_proto.h
+END
+fuse.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-tegra2/fuse.h
+END
+ap20.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-tegra2/ap20.h
+END
+uart-spi-switch.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-tegra2/uart-spi-switch.h
+END
+emc.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-tegra2/emc.h
+END
+flow.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-tegra2/flow.h
+END
+uart.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-tegra2/uart.h
+END
+mmc.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-tegra2/mmc.h
+END
+apb_misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-tegra2/apb_misc.h
+END
+tegra_spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-tegra2/tegra_spi.h
+END
+pmc.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-tegra2/pmc.h
+END
+gp_padctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-tegra2/gp_padctrl.h
+END
+pinmux.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-tegra2/pinmux.h
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-tegra2/timer.h
+END
+tegra2.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-tegra2/tegra2.h
+END
+funcmux.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-tegra2/funcmux.h
+END
+sdram_param.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-tegra2/sdram_param.h
+END
+board.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-tegra2/board.h
+END

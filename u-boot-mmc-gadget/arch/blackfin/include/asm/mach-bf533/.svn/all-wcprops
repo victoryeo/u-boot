@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-bf533
+END
+BF531_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-bf533/BF531_def.h
+END
+gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-bf533/gpio.h
+END
+portmux.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-bf533/portmux.h
+END
+BF532_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-bf533/BF532_def.h
+END
+BF533_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-bf533/BF533_def.h
+END
+anomaly.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-bf533/anomaly.h
+END
+BF531_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-bf533/BF531_cdef.h
+END
+BF532_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-bf533/BF532_cdef.h
+END
+BF533_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-bf533/BF533_cdef.h
+END
+ports.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-bf533/ports.h
+END
+def_local.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-bf533/def_local.h
+END

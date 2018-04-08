@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common
+END
+ADSP-EDN-core_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/ADSP-EDN-core_def.h
+END
+ADSP-EDN-core_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/ADSP-EDN-core_cdef.h
+END

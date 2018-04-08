@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/svm_sc8xx
+END
+svm_sc8xx.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/svm_sc8xx/svm_sc8xx.c
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/svm_sc8xx/u-boot.lds
+END
+u-boot.lds.debug
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/svm_sc8xx/u-boot.lds.debug
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/svm_sc8xx/Makefile
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/svm_sc8xx/flash.c
+END

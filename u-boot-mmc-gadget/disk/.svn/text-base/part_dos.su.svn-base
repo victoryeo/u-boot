@@ -1,0 +1,7 @@
+part_dos.c:47:19:le32_to_int	0	static
+part_dos.c:56:19:is_extended	0	static
+part_dos.c:165:12:get_partition_info_extended	64	dynamic
+part_dos.c:102:13:print_partition_extended	64	dynamic
+part_dos.c:87:5:test_part_dos	24	dynamic
+part_dos.c:250:6:print_part_dos	8	static
+part_dos.c:256:5:get_partition_info_dos	16	static

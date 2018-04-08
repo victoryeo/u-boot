@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/cm-bf533
+END
+cm-bf533.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/cm-bf533/cm-bf533.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/cm-bf533/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/cm-bf533/Makefile
+END

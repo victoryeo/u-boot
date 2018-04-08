@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/bios_emulator/include/x86emu
+END
+regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/bios_emulator/include/x86emu/regs.h
+END
+ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/bios_emulator/include/x86emu/ops.h
+END
+decode.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/bios_emulator/include/x86emu/decode.h
+END
+x86emui.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/bios_emulator/include/x86emu/x86emui.h
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/bios_emulator/include/x86emu/debug.h
+END
+prim_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/bios_emulator/include/x86emu/prim_asm.h
+END
+prim_ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/bios_emulator/include/x86emu/prim_ops.h
+END

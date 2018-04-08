@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/lib
+END
+relocate.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/lib/relocate.c
+END
+bios.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/lib/bios.h
+END
+string.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/lib/string.c
+END
+video.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/lib/video.c
+END
+bios_pci.S
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/lib/bios_pci.S
+END
+pci.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/lib/pci.c
+END
+bios_setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/lib/bios_setup.c
+END
+bios.S
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/lib/bios.S
+END
+zimage.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/lib/zimage.c
+END
+interrupts.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/lib/interrupts.c
+END
+bootm.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/lib/bootm.c
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/lib/timer.c
+END
+video_bios.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/lib/video_bios.c
+END
+init_helpers.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/lib/init_helpers.c
+END
+pcat_interrupts.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/lib/pcat_interrupts.c
+END
+init_wrappers.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/lib/init_wrappers.c
+END
+cmd_boot.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/lib/cmd_boot.c
+END
+pcat_timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/lib/pcat_timer.c
+END
+board.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/lib/board.c
+END
+realmode.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/lib/realmode.c
+END
+realmode_switch.S
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/lib/realmode_switch.S
+END
+gcc.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/lib/gcc.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/lib/Makefile
+END
+pci_type1.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/x86/lib/pci_type1.c
+END

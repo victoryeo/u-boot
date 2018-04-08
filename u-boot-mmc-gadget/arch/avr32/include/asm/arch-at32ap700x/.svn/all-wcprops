@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/avr32/include/asm/arch-at32ap700x
+END
+clk.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/avr32/include/asm/arch-at32ap700x/clk.h
+END
+hmatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/avr32/include/asm/arch-at32ap700x/hmatrix.h
+END
+gpio-impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/avr32/include/asm/arch-at32ap700x/gpio-impl.h
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/avr32/include/asm/arch-at32ap700x/hardware.h
+END
+gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/avr32/include/asm/arch-at32ap700x/gpio.h
+END
+mmu.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/avr32/include/asm/arch-at32ap700x/mmu.h
+END
+portmux.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/avr32/include/asm/arch-at32ap700x/portmux.h
+END
+chip-features.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/avr32/include/asm/arch-at32ap700x/chip-features.h
+END
+cacheflush.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/avr32/include/asm/arch-at32ap700x/cacheflush.h
+END
+addrspace.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/avr32/include/asm/arch-at32ap700x/addrspace.h
+END

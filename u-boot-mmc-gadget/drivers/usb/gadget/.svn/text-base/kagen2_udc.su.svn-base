@@ -1,0 +1,15 @@
+list.h:31:20:INIT_LIST_HEAD	0	static
+kagen2_udc.c:771:1:ka_ep_alloc_request	0	static
+kagen2_udc.c:777:13:ka_ep_free_request	0	static
+kagen2_udc.c:818:12:ka_ep_disable	0	static
+kagen2_udc.c:966:12:ka_pullup	0	static
+kagen2_udc.c:993:12:ums_read_sector	8	static
+kagen2_udc.c:1003:12:ums_write_sector	8	static
+kagen2_udc.c:1013:13:ums_get_capacity	0	static
+kagen2_udc.c:823:12:ka_ep_queue	40	static
+kagen2_udc.c:782:13:ep_enable	16	static
+kagen2_udc.c:803:12:ka_ep_enable	16	static
+gadget.h:286:19:0	8	static
+kagen2_udc.c:699:5:usb_gadget_handle_interrupts	56	static
+kagen2_udc.c:735:5:usb_gadget_register_driver	24	static
+kagen2_udc.c:1037:24:board_ums_init	16	static

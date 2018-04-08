@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/freescale/p1_p2_rdb_pc
+END
+tlb.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/freescale/p1_p2_rdb_pc/tlb.c
+END
+law.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/freescale/p1_p2_rdb_pc/law.c
+END
+ddr.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/freescale/p1_p2_rdb_pc/ddr.c
+END
+p1_p2_rdb_pc.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/freescale/p1_p2_rdb_pc/p1_p2_rdb_pc.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/freescale/p1_p2_rdb_pc/Makefile
+END

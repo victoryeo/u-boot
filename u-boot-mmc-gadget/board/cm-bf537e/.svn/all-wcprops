@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/cm-bf537e
+END
+gpio_cfi_flash.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/cm-bf537e/gpio_cfi_flash.h
+END
+cm-bf537e.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/cm-bf537e/cm-bf537e.c
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/cm-bf537e/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/cm-bf537e/Makefile
+END
+gpio_cfi_flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/cm-bf537e/gpio_cfi_flash.c
+END

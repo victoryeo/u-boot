@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/xilinx/ppc405-generic
+END
+xparameters.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/xilinx/ppc405-generic/xparameters.h
+END
+xilinx_ppc405_generic.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/xilinx/ppc405-generic/xilinx_ppc405_generic.c
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/xilinx/ppc405-generic/.gitignore
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/xilinx/ppc405-generic/Makefile
+END

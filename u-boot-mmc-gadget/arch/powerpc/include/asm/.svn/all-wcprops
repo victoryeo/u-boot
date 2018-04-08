@@ -1,0 +1,575 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm
+END
+iopin_8260.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/iopin_8260.h
+END
+ppc4xx-mal.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/ppc4xx-mal.h
+END
+gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/gpio.h
+END
+cpm_8260.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/cpm_8260.h
+END
+byteorder.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/byteorder.h
+END
+ppc405ep.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/ppc405ep.h
+END
+mc146818rtc.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/mc146818rtc.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/config.h
+END
+unaligned.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/unaligned.h
+END
+5xx_immap.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/5xx_immap.h
+END
+ppc405ex.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/ppc405ex.h
+END
+ppc405ez.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/ppc405ez.h
+END
+ppc440.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/ppc440.h
+END
+mp.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/mp.h
+END
+ppc4xx-ebc.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/ppc4xx-ebc.h
+END
+fsl_pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/fsl_pci.h
+END
+ppc4xx-gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/ppc4xx-gpio.h
+END
+fsl_mpc83xx_serdes.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/fsl_mpc83xx_serdes.h
+END
+ppc4xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/ppc4xx.h
+END
+ppc460sx.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/ppc460sx.h
+END
+mpc85xx_gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/mpc85xx_gpio.h
+END
+immap_83xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/immap_83xx.h
+END
+immap_85xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/immap_85xx.h
+END
+fsl_enet.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/fsl_enet.h
+END
+immap_86xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/immap_86xx.h
+END
+bitops.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/bitops.h
+END
+config_mpc85xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/config_mpc85xx.h
+END
+config_mpc86xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/config_mpc86xx.h
+END
+fsl_ddr_sdram.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/fsl_ddr_sdram.h
+END
+fsl_lbc.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/fsl_lbc.h
+END
+u-boot.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/u-boot.h
+END
+fsl_ifc.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/fsl_ifc.h
+END
+fsl_dtsec.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/fsl_dtsec.h
+END
+status_led.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/status_led.h
+END
+residual.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/residual.h
+END
+fsl_liodn.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/fsl_liodn.h
+END
+atomic.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/atomic.h
+END
+fsl_srio.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/fsl_srio.h
+END
+immap_512x.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/immap_512x.h
+END
+ppc440spe.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/ppc440spe.h
+END
+fsl_fman.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/fsl_fman.h
+END
+fsl_tgec.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/fsl_tgec.h
+END
+global_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/global_data.h
+END
+fsl_serdes.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/fsl_serdes.h
+END
+ppc4xx-emac.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/ppc4xx-emac.h
+END
+mpc8xxx_spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/mpc8xxx_spi.h
+END
+mmu.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/mmu.h
+END
+mpc512x.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/mpc512x.h
+END
+ppc4xx-isram.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/ppc4xx-isram.h
+END
+ppc405cr.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/ppc405cr.h
+END
+ppc440gp.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/ppc440gp.h
+END
+pci_io.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/pci_io.h
+END
+mpc8349_pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/mpc8349_pci.h
+END
+ppc405gp.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/ppc405gp.h
+END
+ppc4xx-uic.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/ppc4xx-uic.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/types.h
+END
+fsl_dma.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/fsl_dma.h
+END
+string.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/string.h
+END
+io.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/io.h
+END
+ppc440epx_grx.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/ppc440epx_grx.h
+END
+ppc440gx.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/ppc440gx.h
+END
+iopin_85xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/iopin_85xx.h
+END
+8xx_immap.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/8xx_immap.h
+END
+ppc405.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/ppc405.h
+END
+cpm_85xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/cpm_85xx.h
+END
+ppc4xx_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/ppc4xx_config.h
+END
+fsl_secure_boot.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/fsl_secure_boot.h
+END
+ppc440sp.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/ppc440sp.h
+END
+immap_8220.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/immap_8220.h
+END
+4xx_pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/4xx_pci.h
+END
+processor.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/processor.h
+END
+immap_8260.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/immap_8260.h
+END
+4xx_pcie.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/4xx_pcie.h
+END
+iopin_8xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/iopin_8xx.h
+END
+fsl_ddr_dimm_params.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/fsl_ddr_dimm_params.h
+END
+fsl_law.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/fsl_law.h
+END
+ppc440ep_gr.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/ppc440ep_gr.h
+END
+apm821xx.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/apm821xx.h
+END
+fsl_portals.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/fsl_portals.h
+END
+ppc4xx-sdram.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/ppc4xx-sdram.h
+END
+interrupt.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/interrupt.h
+END
+pnp.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/pnp.h
+END
+ppc4xx-i2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/ppc4xx-i2c.h
+END
+cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/cache.h
+END
+ppc460ex_gt.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/ppc460ex_gt.h
+END
+m8260_pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/m8260_pci.h
+END
+e300.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/e300.h
+END
+signal.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/signal.h
+END
+ptrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/ptrace.h
+END
+fsl_i2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/fsl_i2c.h
+END
+errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/errno.h
+END
+posix_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/posix_types.h
+END
+xilinx_irq.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/xilinx_irq.h
+END
+sigcontext.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/sigcontext.h
+END
+immap_qe.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/powerpc/include/asm/immap_qe.h
+END

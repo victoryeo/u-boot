@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-bf561
+END
+gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-bf561/gpio.h
+END
+portmux.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-bf561/portmux.h
+END
+anomaly.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-bf561/anomaly.h
+END
+BF561_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-bf561/BF561_def.h
+END
+BF561_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-bf561/BF561_cdef.h
+END
+ports.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-bf561/ports.h
+END
+def_local.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-bf561/def_local.h
+END

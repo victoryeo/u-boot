@@ -1,0 +1,107 @@
+10
+
+dir
+29
+http://118.163.54.41/p1037/socgen2/trunk/u-boot-mmc-gadget/arch
+http://118.163.54.41/p1037/socgen2
+
+
+
+2012-10-24T09:36:27.194672Z
+29
+victor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+82ff6e04-69a7-420e-9042-eed9084a3c3d
+
+powerpc
+dir
+
+arm
+dir
+
+openrisc
+dir
+
+x86
+dir
+
+m68k
+dir
+
+microblaze
+dir
+
+cpu
+dir
+
+nds32
+dir
+
+nios2
+dir
+
+avr32
+dir
+
+sandbox
+dir
+
+.gitignore
+file
+
+
+
+
+2012-11-23T07:57:37.030084Z
+d8296ef3f238d03816c88222fd83d7cd
+2012-10-24T09:36:27.194672Z
+29
+victor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+40
+
+sparc
+dir
+
+mips
+dir
+
+blackfin
+dir
+
+sh
+dir
+

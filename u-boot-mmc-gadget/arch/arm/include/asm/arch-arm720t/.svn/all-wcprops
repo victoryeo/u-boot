@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-arm720t
+END
+netarm_mem_module.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-arm720t/netarm_mem_module.h
+END
+netarm_eth_module.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-arm720t/netarm_eth_module.h
+END
+netarm_dma_module.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-arm720t/netarm_dma_module.h
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-arm720t/hardware.h
+END
+netarm_registers.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-arm720t/netarm_registers.h
+END
+netarm_gen_module.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-arm720t/netarm_gen_module.h
+END
+netarm_ser_module.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-arm720t/netarm_ser_module.h
+END
+netarm_eni_module.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/include/asm/arch-arm720t/netarm_eni_module.h
+END

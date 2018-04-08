@@ -1,0 +1,9 @@
+main.c:1097:15:delete_char	24	static
+main.c:53:13:__show_boot_progress	0	static
+main.c:966:5:readline_into_buffer	40	static
+main.c:954:5:readline	0	static
+main.c:1129:5:parse_line	8	static
+main.c:1304:12:builtin_run_command	880	static
+main.c:1402:5:run_command	8	static
+main.c:294:6:main_loop	8	static
+main.c:1422:5:do_run	24	static

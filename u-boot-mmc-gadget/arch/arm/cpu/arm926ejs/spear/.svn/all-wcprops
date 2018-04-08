@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm926ejs/spear
+END
+spl.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm926ejs/spear/spl.c
+END
+spr600_mt47h32m16_37e_166_cl4_sync.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm926ejs/spear/spr600_mt47h32m16_37e_166_cl4_sync.c
+END
+spear600.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm926ejs/spear/spear600.c
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm926ejs/spear/timer.c
+END
+spl_boot.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm926ejs/spear/spl_boot.c
+END
+u-boot-spl.lds
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm926ejs/spear/u-boot-spl.lds
+END
+reset.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm926ejs/spear/reset.c
+END
+spr600_mt47h64m16_3_333_cl5_psync.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm926ejs/spear/spr600_mt47h64m16_3_333_cl5_psync.c
+END
+cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm926ejs/spear/cpu.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm926ejs/spear/Makefile
+END
+spr600_mt47h128m8_3_266_cl5_async.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm926ejs/spear/spr600_mt47h128m8_3_266_cl5_async.c
+END
+spr600_mt47h32m16_333_cl5_psync.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm926ejs/spear/spr600_mt47h32m16_333_cl5_psync.c
+END
+start.S
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/arm926ejs/spear/start.S
+END

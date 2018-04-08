@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/spl
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/spl/.gitignore
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/spl/Makefile
+END

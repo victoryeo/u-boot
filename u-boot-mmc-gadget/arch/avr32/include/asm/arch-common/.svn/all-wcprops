@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/avr32/include/asm/arch-common
+END
+portmux-gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/avr32/include/asm/arch-common/portmux-gpio.h
+END
+portmux-pio.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/avr32/include/asm/arch-common/portmux-pio.h
+END

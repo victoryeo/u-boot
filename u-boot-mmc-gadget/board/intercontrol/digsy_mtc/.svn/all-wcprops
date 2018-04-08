@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/intercontrol/digsy_mtc
+END
+is45s16800a2.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/intercontrol/digsy_mtc/is45s16800a2.h
+END
+is42s16800a-7t.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/intercontrol/digsy_mtc/is42s16800a-7t.h
+END
+cmd_disp.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/intercontrol/digsy_mtc/cmd_disp.c
+END
+digsy_mtc.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/intercontrol/digsy_mtc/digsy_mtc.c
+END
+cmd_mtc.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/intercontrol/digsy_mtc/cmd_mtc.c
+END
+cmd_mtc.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/intercontrol/digsy_mtc/cmd_mtc.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/intercontrol/digsy_mtc/Makefile
+END
+eeprom.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/intercontrol/digsy_mtc/eeprom.h
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/fs/jffs2
+END
+mini_inflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/fs/jffs2/mini_inflate.c
+END
+compr_rubin.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/fs/jffs2/compr_rubin.c
+END
+compr_rtime.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/fs/jffs2/compr_rtime.c
+END
+compr_zlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/fs/jffs2/compr_zlib.c
+END
+LICENCE
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/fs/jffs2/LICENCE
+END
+jffs2_1pass.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/fs/jffs2/jffs2_1pass.c
+END
+jffs2_nand_1pass.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/fs/jffs2/jffs2_nand_1pass.c
+END
+summary.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/fs/jffs2/summary.h
+END
+compr_lzo.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/fs/jffs2/compr_lzo.c
+END
+jffs2_nand_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/fs/jffs2/jffs2_nand_private.h
+END
+jffs2_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/fs/jffs2/jffs2_private.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/fs/jffs2/Makefile
+END

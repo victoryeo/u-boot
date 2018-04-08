@@ -1,0 +1,5 @@
+kagen2_mmc.c:356:12:kmmc_init	16	static
+kagen2_mmc.c:342:13:kmmc_set_ios	0	static
+kagen2_mmc.c:67:1:kmmc_send_cmd	56	static
+kagen2_mmc.c:409:5:kagen2_mmc_init	16	static
+kagen2_mmc.c:439:5:board_mmc_init	0	static

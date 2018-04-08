@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/net
+END
+net_rand.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/net/net_rand.h
+END
+ping.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/net/ping.h
+END
+rarp.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/net/rarp.c
+END
+cdp.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/net/cdp.c
+END
+link_local.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/net/link_local.c
+END
+rarp.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/net/rarp.h
+END
+cdp.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/net/cdp.h
+END
+link_local.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/net/link_local.h
+END
+tftp.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/net/tftp.c
+END
+eth.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/net/eth.c
+END
+arp.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/net/arp.c
+END
+tftp.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/net/tftp.h
+END
+bootp.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/net/bootp.c
+END
+dns.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/net/dns.c
+END
+sntp.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/net/sntp.c
+END
+nfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/net/nfs.c
+END
+net.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/net/net.c
+END
+arp.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/net/arp.h
+END
+bootp.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/net/bootp.h
+END
+dns.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/net/dns.h
+END
+sntp.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/net/sntp.h
+END
+nfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/net/nfs.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/net/Makefile
+END
+ping.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/net/ping.c
+END

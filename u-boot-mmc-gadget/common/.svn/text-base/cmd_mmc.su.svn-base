@@ -1,0 +1,2 @@
+cmd_mmc.c:242:5:do_mmcops	40	static
+cmd_mmc.c:209:5:do_mmcinfo	16	static

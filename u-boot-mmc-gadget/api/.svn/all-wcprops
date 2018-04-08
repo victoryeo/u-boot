@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/api
+END
+api_display.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/api/api_display.c
+END
+api_net.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/api/api_net.c
+END
+api_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/api/api_private.h
+END
+api.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/api/api.c
+END
+api_platform-arm.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/api/api_platform-arm.c
+END
+api_platform-powerpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/api/api_platform-powerpc.c
+END
+.depend
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/api/.depend
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/api/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/api/README
+END
+api_storage.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/api/api_storage.c
+END

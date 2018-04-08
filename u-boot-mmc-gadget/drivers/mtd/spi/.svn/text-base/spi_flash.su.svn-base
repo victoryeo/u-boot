@@ -1,0 +1,13 @@
+spi_flash.c:23:13:spi_flash_addr	0	static
+spi_flash.c:31:12:spi_flash_read_write	32	static
+spi_flash.c:61:5:spi_flash_cmd_read	16	static
+spi_flash.c:56:5:spi_flash_cmd	24	static
+spi_flash.c:67:5:spi_flash_cmd_write	16	static
+spi_flash.c:142:5:spi_flash_read_common	32	static
+spi_flash.c:155:5:spi_flash_cmd_read_fast	40	static
+spi_flash.c:167:5:spi_flash_cmd_poll_bit	48	static
+spi_flash.c:216:5:spi_flash_cmd_wait_ready	0	static
+spi_flash.c:73:5:spi_flash_cmd_write_multi	56	static
+spi_flash.c:222:5:spi_flash_cmd_erase	48	static
+spi_flash.c:357:19:spi_flash_probe	24	static
+spi_flash.c:428:6:spi_flash_free	8	static

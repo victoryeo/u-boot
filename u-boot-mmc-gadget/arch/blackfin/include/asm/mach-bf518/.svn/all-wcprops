@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-bf518
+END
+BF512_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-bf518/BF512_def.h
+END
+gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-bf518/gpio.h
+END
+portmux.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-bf518/portmux.h
+END
+BF514_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-bf518/BF514_def.h
+END
+BF512_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-bf518/BF512_cdef.h
+END
+anomaly.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-bf518/anomaly.h
+END
+BF516_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-bf518/BF516_def.h
+END
+BF514_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-bf518/BF514_cdef.h
+END
+BF518_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-bf518/BF518_def.h
+END
+BF516_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-bf518/BF516_cdef.h
+END
+BF518_cdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-bf518/BF518_cdef.h
+END
+ports.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-bf518/ports.h
+END
+def_local.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-bf518/def_local.h
+END

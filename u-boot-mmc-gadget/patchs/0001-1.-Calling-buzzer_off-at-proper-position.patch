@@ -1,0 +1,109 @@
+From 41a06c8be04e5ef5ff9fa7683a6b1ecd00e864a7 Mon Sep 17 00:00:00 2001
+From: Sam Ho <samho@keyasic.com>
+Date: Mon, 13 Aug 2012 16:03:43 +0800
+Subject: [PATCH 1/2] 1. Calling buzzer_off() at proper position. 2. Remove
+ some KA patches.
+
+---
+ common/main.c |   38 +++++++++++++++++++++-----------------
+ 1 file changed, 21 insertions(+), 17 deletions(-)
+
+diff --git a/common/main.c b/common/main.c
+index 965647c..146d45f 100644
+--- a/common/main.c
++++ b/common/main.c
+@@ -262,13 +262,14 @@ int abortboot(int bootdelay)
+ # endif
+ 				break;
+ 			}
+-			//udelay(10000);
++#if 1 // Orig
++			udelay(10000);
++#else // KA patch
+ 			null_delay(100);
++#endif
+ 		}
+-		putc(0x8);
+-		putc(0x8);
+-		printf("%2d", bootdelay);
+-		//printf("\b\b\b%2d ", bootdelay);
++
++		printf("\b\b\b%2d ", bootdelay);
+ 	}
+ 
+ 	putc('\n');
+@@ -278,8 +279,11 @@ int abortboot(int bootdelay)
+ 		gd->flags &= ~GD_FLG_SILENT;
+ #endif
+ 
++	// KA patch start
+ 	if (abort)
+ 		buzzer_off();
++	// KA patch end
++
+ 	return abort;
+ }
+ # endif	/* CONFIG_AUTOBOOT_KEYED */
+@@ -367,7 +371,7 @@ void main_loop (void)
+ 	s = getenv ("bootdelay");
+ 	bootdelay = s ? (int)simple_strtol(s, NULL, 10) : CONFIG_BOOTDELAY;
+ 
+-	//debug ("### main_loop entered: bootdelay=%d\n\n", bootdelay);
++	debug ("### main_loop entered: bootdelay=%d\n\n", bootdelay);
+ 
+ #if defined(CONFIG_MENU_SHOW)
+ 	bootdelay = menu_show(bootdelay);
+@@ -391,11 +395,17 @@ void main_loop (void)
+ 	else
+ #endif /* CONFIG_BOOTCOUNT_LIMIT */
+ 		s = getenv ("bootcmd");
+-		if (bootdelay == 0)
+-		{
+-			run_command (s, 0);
+-		}
+-	//debug ("### main_loop: bootcmd=\"%s\"\n", s ? s : "<UNDEFINED>");
++
++	// KA patch start
++	buzzer_off();
++
++	if (bootdelay == 0)
++	{
++		run_command (s, 0);
++	}
++	// KA patch end
++
++	debug ("### main_loop: bootcmd=\"%s\"\n", s ? s : "<UNDEFINED>");
+ 
+ 	if (bootdelay >= 0 && s && !abortboot (bootdelay)) {
+ # ifdef CONFIG_AUTOBOOT_KEYED
+@@ -418,8 +428,6 @@ void main_loop (void)
+ #endif /* CONFIG_MENUKEY */
+ #endif /* CONFIG_BOOTDELAY */
+ 
+-	buzzer_off();
+-
+ 	/*
+ 	 * Main Loop for Monitor Command Processing
+ 	 */
+@@ -437,10 +445,7 @@ void main_loop (void)
+ 			reset_cmd_timeout();
+ 		}
+ #endif
+-		//puts ("Jump to offset 0x40000\n");
+-		//goto_offset();
+ 		len = readline (CONFIG_SYS_PROMPT);
+-		//puts ("rl out\n");
+ 
+ 		flag = 0;	/* assume no special flags for now */
+ 		if (len > 0)
+@@ -988,7 +993,6 @@ int readline_into_buffer(const char *const prompt, char *buffer, int timeout)
+ 	col = plen;
+ 
+ 	for (;;) {
+-		//printf ("\nn=%d\n", n);
+ #ifdef CONFIG_BOOT_RETRY_TIME
+ 		while (!tstc()) {	/* while no incoming data */
+ 			if (retry_time >= 0 && get_ticks() > endtime)
+-- 
+1.7.9.5
+

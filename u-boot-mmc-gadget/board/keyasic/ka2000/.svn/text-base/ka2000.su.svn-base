@@ -1,0 +1,6 @@
+ka2000.c:44:5:board_init	8	static
+ka2000.c:77:5:misc_init_r	0	static
+ka2000.c:92:5:board_late_init	8	static
+ka2000.c:129:15:flash_init	0	static
+ka2000.c:136:6:do_remap	0	static
+ka2000.c:151:5:dram_init	8	static

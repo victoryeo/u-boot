@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/xilinx/microblaze-generic
+END
+xparameters.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/xilinx/microblaze-generic/xparameters.h
+END
+microblaze-generic.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/xilinx/microblaze-generic/microblaze-generic.c
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/xilinx/microblaze-generic/u-boot.lds
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/xilinx/microblaze-generic/config.mk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/xilinx/microblaze-generic/Makefile
+END

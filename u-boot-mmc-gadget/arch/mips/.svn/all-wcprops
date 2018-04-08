@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/mips
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/mips/config.mk
+END

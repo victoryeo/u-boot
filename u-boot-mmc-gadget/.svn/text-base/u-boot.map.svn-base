@@ -1,0 +1,1038 @@
+Archive member included because of file (symbol)
+
+/home/victor/Tools/arm-2011.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_udivsi3.o)
+                              arch/arm/cpu/arm926ejs/keyasic/libkeyasic.o (__aeabi_uidiv)
+/home/victor/Tools/arm-2011.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_divsi3.o)
+                              arch/arm/cpu/arm926ejs/keyasic/libkeyasic.o (__aeabi_idiv)
+/home/victor/Tools/arm-2011.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_lshrdi3.o)
+                              lib/libgeneric.o (__aeabi_llsr)
+/home/victor/Tools/arm-2011.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_ashldi3.o)
+                              drivers/mmc/libmmc.o (__aeabi_llsl)
+/home/victor/Tools/arm-2011.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_dvmd_lnx.o)
+                              /home/victor/Tools/arm-2011.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+                0x00000000                . = 0x0
+                0x00000000                . = ALIGN (0x4)
+
+.text           0x00002e00    0x1eda8
+                0x00002e00                __image_copy_start = .
+ arch/arm/cpu/arm926ejs/start.o(.text)
+ .text          0x00002e00      0x420 arch/arm/cpu/arm926ejs/start.o
+                0x00002e00                _start
+                0x00002e40                _TEXT_BASE
+                0x00002e44                _bss_start_ofs
+                0x00002e48                _bss_end_ofs
+                0x00002e4c                _end_ofs
+                0x00002e70                relocate_code
+                0x00003208                IRQ_STACK_START_IN
+ *(.text)
+ .text          0x00003220     0x2e54 arch/arm/cpu/arm926ejs/keyasic/libkeyasic.o
+                0x00003260                buzzer_off
+                0x00003280                buzzer_on
+                0x00003318                set_clock
+                0x000034fc                clk_get
+                0x00003508                arch_cpu_init
+                0x00003544                pagetbl_setup
+                0x0000358c                pagetbl_init
+                0x000035b4                arch_misc_init
+                0x000035cc                program_mode
+                0x000035d4                pll_ratio
+                0x00003694                get_clock_f
+                0x000037ec                set_clock_f
+                0x00003b08                clk_get_dev
+                0x00003c0c                timer_init
+                0x00003c38                get_ka_tick
+                0x00003d00                reset_timer
+                0x00003d14                get_timer
+                0x00003d34                set_timer
+                0x00003d44                __udelay
+                0x00003d80                get_ticks
+                0x00003d94                get_tbclk
+                0x00003d9c                ka_errata_workarounds
+                0x00003de0                switch_to_m1_sw
+                0x00003de4                switch_to_m2_sw
+                0x00003dec                InitCardReader
+                0x00003e8c                wait_m1_ready
+                0x00003f2c                command_read_pre_clear_status
+                0x00003f68                write_512_buffer
+                0x00003f9c                switch_to_m2
+                0x00003fe0                do_switch_to_m1
+                0x000040b8                switch_to_m1
+                0x000040f4                m1_busy
+                0x00004164                init_m2
+                0x000041d4                WaitResp
+                0x000042e0                WaitDMAIntr
+                0x00004358                CardRead_dma
+                0x000043fc                WaitBusReady
+                0x0000445c                HCmdNoData
+                0x00004594                ACMD41tillReady
+                0x0000464c                InCaIsSDVer
+                0x00004724                WaitCardReady
+                0x0000478c                InitCard
+                0x00004c68                command_9_get_csd
+                0x00004e34                CardErase_single
+                0x00004f48                CardRead_single_pin
+                0x000050f0                command_read_single_block
+                0x00005130                sim_uart_tx
+                0x00005160                CardWrite_cmd
+                0x00005208                CardWrite_single_pin
+                0x00005394                SendWriteCmd
+                0x00005408                SDCardWrite
+                0x000056bc                ReadDma
+                0x00005760                SDCardRead
+                0x000059e4                mmc_sendcmd
+                0x00005ad0                mmc_bwrite
+                0x00005c1c                mmc_bread
+                0x00005d5c                test_switch_register
+                0x00005de0                record_cmd
+                0x00005de4                find_fat_partition
+                0x00005e74                rebuild_sd
+                0x00005e78                detect_program_bin
+                0x00005ee4                mmc_legacy_init
+                0x00005fd4                reset_cpu
+                0x00005fe0                word_write
+                0x00005fec                word_read
+                0x00005ffc                hword_write
+                0x00006008                hword_read
+                0x00006018                byte_write
+                0x00006024                byte_read
+                0x00006034                cpu_setup
+                0x00006060                test_clean_dcache
+                0x0000606c                goto_offset
+ .text          0x00006074       0x3c arch/arm/cpu/arm926ejs/libarm926ejs.o
+                0x00006074                cleanup_before_linux
+                0x00006098                invalidate_dcache_all
+                0x0000609c                flush_dcache_all
+                0x000060a0                invalidate_dcache_range
+                0x000060a4                flush_dcache_range
+                0x000060a8                flush_cache
+                0x000060ac                l2_cache_disable
+                0x000060ac                __l2_cache_disable
+ .text          0x000060b0      0x724 arch/arm/lib/libarm.o
+                0x000060e0                __coloured_LED_init
+                0x000060e4                __red_led_on
+                0x000060e4                red_led_on
+                0x000060e8                __red_led_off
+                0x000060e8                red_led_off
+                0x000060ec                green_led_on
+                0x000060ec                __green_led_on
+                0x000060f0                green_led_off
+                0x000060f0                __green_led_off
+                0x000060f4                yellow_led_on
+                0x000060f4                __yellow_led_on
+                0x000060f8                __yellow_led_off
+                0x000060f8                yellow_led_off
+                0x000060fc                blue_led_on
+                0x000060fc                __blue_led_on
+                0x00006100                __blue_led_off
+                0x00006100                blue_led_off
+                0x00006104                __dram_init_banksize
+                0x00006104                dram_init_banksize
+                0x00006120                __arch_cpu_init
+                0x00006128                board_init_r
+                0x000061d8                hang
+                0x000061ec                board_init_f
+                0x00006490                arch_lmb_reserve
+                0x000064b4                do_bootm_linux
+                0x00006508                interrupt_init
+                0x00006524                enable_interrupts
+                0x00006528                disable_interrupts
+                0x00006530                bad_mode
+                0x00006540                show_regs
+                0x00006680                do_undefined_instruction
+                0x000066a0                do_software_interrupt
+                0x000066c0                do_prefetch_abort
+                0x000066e0                do_data_abort
+                0x00006700                do_not_used
+                0x00006720                do_fiq
+                0x00006740                do_irq
+                0x00006760                do_reset
+                0x00006790                __flush_cache
+                0x000067a4                __flush_dcache_all
+                0x000067b0                enable_caches
+                0x000067b0                __enable_caches
+                0x000067b4                icache_enable
+                0x000067b8                icache_disable
+                0x000067bc                icache_status
+                0x000067c4                dcache_enable
+                0x000067c8                dcache_disable
+                0x000067cc                dcache_status
+ .text          0x000067d4        0x0 board/keyasic/common/libkeyasic.o
+ .text          0x000067d4     0x9e64 common/libcommon.o
+                0x000067ec                do_bdinfo
+                0x000068ac                do_go_exec
+                0x000068c4                do_go
+                0x00006920                do_clk
+                0x00006af0                do_coninfo
+                0x00006ba8                do_echo
+                0x00006d64                do_fat_fsinfo
+                0x00006e3c                do_fat_ls
+                0x00006f44                do_fat_fsload
+                0x000070c4                do_help
+                0x00007194                binary_test
+                0x00007330                do_itest
+                0x000073c8                do_mem_crc
+                0x00007474                do_mem_base
+                0x000074b4                do_mem_mtest
+                0x00007658                do_mem_cp
+                0x00007730                do_mem_cmp
+                0x00007868                do_mem_mw
+                0x00007920                do_mem_loop
+                0x00007b10                do_mem_md
+                0x00007d28                do_mem_nm
+                0x00007d30                do_mem_mm
+                0x00007d38                do_sleep
+                0x00007dac                do_mmcops
+                0x000081cc                do_mmcinfo
+                0x00008660                do_env_save
+                0x0000872c                do_env_print
+                0x000087b0                get_env_id
+                0x000087c0                _do_env_set
+                0x00008ac8                do_env_set
+                0x00008ae8                setenv
+                0x00008d94                setenv_ulong
+                0x00008db4                setenv_addr
+                0x00008de8                envmatch
+                0x00008e4c                getenv_f
+                0x00008f00                getenv
+                0x00008f6c                getenv_ulong
+                0x00008f9c                do_env_edit
+                0x000095a8                do_spi
+                0x000097d0                do_usbboot
+                0x00009af4                usb_get_class_desc
+                0x00009ba0                usb_display_class_sub
+                0x00009d14                usb_display_string
+                0x00009d58                usb_display_desc
+                0x00009e84                usb_display_conf_desc
+                0x00009f30                usb_display_if_desc
+                0x00009fb8                usb_display_ep_desc
+                0x0000a074                usb_display_config
+                0x0000a0f8                usb_show_tree_graph
+                0x0000a31c                usb_show_tree
+                0x0000a34c                do_usb
+                0x0000a880                do_usb_mass_storage
+                0x0000a924                do_version
+                0x0000a95c                find_cmd_tbl
+                0x0000a9f8                find_cmd
+                0x0000aa20                cmd_usage
+                0x0000aa7c                _do_help
+                0x0000ac00                cmd_get_data_size
+                0x0000ac50                cmd_process
+                0x0000ad74                serial_printf
+                0x0000adb4                fgetc
+                0x0000ade0                ftstc
+                0x0000ae0c                fputc
+                0x0000ae34                fputs
+                0x0000ae5c                fprintf
+                0x0000aea4                getc
+                0x0000aec8                tstc
+                0x0000aeec                putc
+                0x0000af14                puts
+                0x0000af3c                printf
+                0x0000af88                vprintf
+                0x0000afc8                ctrlc
+                0x0000b014                disable_ctrlc
+                0x0000b02c                had_ctrlc
+                0x0000b03c                clear_ctrlc
+                0x0000b050                dbg
+                0x0000b05c                search_device
+                0x0000b084                console_assign
+                0x0000b0c4                console_init_f
+                0x0000b0d4                stdio_print_current_devices
+                0x0000b0d8                console_init_r
+                0x0000b1bc                sbrk
+                0x0000b218                mem_malloc_init
+                0x0000b23c                malloc_trim
+                0x0000b30c                free
+                0x0000b530                cfree
+                0x0000b534                malloc
+                0x0000bb0c                calloc
+                0x0000bbe0                memalign
+                0x0000bcf0                pvalloc
+                0x0000bd08                valloc
+                0x0000bd14                realloc
+                0x0000c11c                malloc_usable_size
+                0x0000c158                mallopt
+                0x0000c1cc                env_get_char_spec
+                0x0000c1d8                env_get_addr
+                0x0000c1fc                env_get_char_memory
+                0x0000c20c                env_get_char
+                0x0000c244                set_default_env
+                0x0000c2dc                env_import
+                0x0000c3ac                env_relocate
+                0x0000c3dc                saveenv
+                0x0000c53c                env_relocate_spec
+                0x0000c5e0                env_init
+                0x0000c600                get_version
+                0x0000c608                jumptable_init
+                0x0000c87c                image_check_hcrc
+                0x0000c8d4                image_check_dcrc
+                0x0000c8dc                image_multi_count
+                0x0000c904                image_multi_getimg
+                0x0000c990                getenv_yesno
+                0x0000c9b8                getenv_bootm_low
+                0x0000c9e8                getenv_bootm_size
+                0x0000ca44                getenv_bootm_mapsize
+                0x0000ca74                memmove_wd
+                0x0000ca80                genimg_print_size
+                0x0000cab0                get_table_entry_name
+                0x0000cadc                genimg_get_os_name
+                0x0000caf4                genimg_get_arch_name
+                0x0000cb0c                genimg_get_type_name
+                0x0000cb24                genimg_get_comp_name
+                0x0000cb3c                image_print_contents
+                0x0000ccdc                get_table_entry_id
+                0x0000cd28                genimg_get_os_id
+                0x0000cd40                genimg_get_arch_id
+                0x0000cd58                genimg_get_type_id
+                0x0000cd70                genimg_get_comp_id
+                0x0000cd88                genimg_get_format
+                0x0000cd9c                genimg_get_image
+                0x0000cda0                genimg_has_config
+                0x0000cda8                boot_get_ramdisk
+                0x0000d000                boot_ramdisk_high
+                0x0000d204                __show_boot_progress
+                0x0000d204                show_boot_progress
+                0x0000d208                readline_into_buffer
+                0x0000d3c8                readline
+                0x0000d3dc                parse_line
+                0x0000d77c                run_command
+                0x0000d794                main_loop
+                0x0000d824                do_run
+                0x0000d8a0                get_ram_size
+                0x0000d9a8                stdio_get_list
+                0x0000d9b4                stdio_get_by_name
+                0x0000da10                stdio_clone
+                0x0000da58                stdio_register
+                0x0000da9c                stdio_init
+                0x0000db8c                usb_stop
+                0x0000dbc0                usb_disable_asynch
+                0x0000dbe0                usb_submit_int_msg
+                0x0000dbe4                usb_control_msg
+                0x0000de98                usb_bulk_msg
+                0x0000df08                usb_maxpacket
+                0x0000df24                usb_clear_halt
+                0x0000dfd0                usb_get_configuration_no
+                0x0000e06c                usb_set_interface
+                0x0000e130                usb_set_protocol
+                0x0000e18c                usb_set_idle
+                0x0000e1f0                usb_get_report
+                0x0000e268                usb_get_class_descriptor
+                0x0000e2e0                usb_string
+                0x0000e3dc                usb_get_dev_index
+                0x0000e408                usb_alloc_new_device
+                0x0000e48c                usb_new_device
+                0x0000e940                usb_init
+                0x0000ebe8                usb_hub_reset
+                0x0000ebfc                hub_port_reset
+                0x0000ecb0                usb_hub_port_connect_change
+                0x0000f028                usb_hub_probe
+                0x0000f370                usb_stor_write
+                0x0000f568                usb_stor_read
+                0x0000f760                usb_stor_get_dev
+                0x0000f784                usb_show_progress
+                0x0000f788                usb_stor_info
+                0x0000f7f8                usb_stor_BBB_comdat
+                0x0000f8d8                usb_stor_CB_comdat
+                0x0000fb20                usb_stor_CBI_get_status
+                0x0000fbf4                usb_stor_CB_transport
+                0x0000fdf0                usb_stor_BBB_clear_endpt_stall
+                0x0000fe3c                usb_stor_BBB_transport
+                0x00010008                usb_storage_probe
+                0x00010228                usb_stor_get_info
+                0x00010450                usb_stor_scan
+ .text          0x00010638      0x8f4 disk/libdisk.o
+                0x00010638                get_dev
+                0x000106a4                dev_print
+                0x000108bc                init_part
+                0x000108d8                get_partition_info
+                0x00010900                print_part
+                0x00010e6c                test_part_dos
+                0x00010ee4                print_part_dos
+                0x00010f10                get_partition_info_dos
+ .text          0x00010f2c      0x54c drivers/input/libinput.o
+                0x00011020                input_queue_ascii
+                0x00011070                input_tstc
+                0x000110b4                input_getc
+                0x00011114                input_send_keycodes
+                0x0001133c                input_add_table
+                0x0001137c                input_init
+                0x00011424                input_stdio_register
+ .text          0x00011478     0x1df8 drivers/mmc/libmmc.o
+                0x00011a54                kagen2_mmc_init
+                0x00011b08                board_mmc_init
+                0x00011b34                __board_mmc_getcd
+                0x00011b34                board_mmc_getcd
+                0x00011b3c                mmc_send_cmd
+                0x00011b78                mmc_send_status
+                0x00011c54                mmc_set_blocklen
+                0x00011c88                find_mmc_device
+                0x00011fdc                mmc_read_blocks
+                0x000120f8                mmc_go_idle
+                0x00012148                sd_send_op_cond
+                0x00012294                mmc_send_op_cond
+                0x000123e8                mmc_send_ext_csd
+                0x00012438                mmc_switch
+                0x00012490                mmc_change_freq
+                0x00012540                mmc_switch_part
+                0x0001257c                mmc_getcd
+                0x000125a8                sd_switch
+                0x00012614                sd_change_freq
+                0x0001282c                mmc_set_ios
+                0x0001283c                mmc_set_clock
+                0x0001285c                mmc_set_bus_width
+                0x00012864                mmc_startup
+                0x00012f30                mmc_send_if_cond
+                0x00012fbc                mmc_register
+                0x0001304c                mmc_init
+                0x00013174                mmc_get_dev
+                0x00013198                cpu_mmc_init
+                0x000131a0                print_mmc_devices
+                0x00013208                get_mmc_num
+                0x00013218                mmc_initialize
+ .text          0x00013270      0x72c drivers/mtd/spi/libspi_flash.o
+                0x000132fc                spi_flash_cmd_read
+                0x00013318                spi_flash_cmd
+                0x00013344                spi_flash_cmd_write
+                0x00013360                spi_flash_read_common
+                0x000133ac                spi_flash_cmd_read_fast
+                0x00013400                spi_flash_cmd_poll_bit
+                0x000134e0                spi_flash_cmd_wait_ready
+                0x000134ec                spi_flash_cmd_write_multi
+                0x00013630                spi_flash_cmd_erase
+                0x00013780                spi_flash_probe
+                0x00013830                spi_flash_free
+                0x000138b0                spi_flash_probe_macronix
+ .text          0x0001399c      0x2f4 drivers/serial/libserial.o
+                0x0001399c                NS16550_init
+                0x000139e0                null_delay
+                0x00013a18                NS16550_reinit
+                0x00013ac4                NS16550_putc
+                0x00013aec                NS16550_getc
+                0x00013b38                NS16550_tstc
+                0x00013b6c                serial_init
+                0x00013b8c                _serial_putc
+                0x00013bc4                _serial_putc_raw
+                0x00013be0                _serial_puts
+                0x00013c08                _serial_getc
+                0x00013c24                _serial_tstc
+                0x00013c38                _serial_setbrg
+                0x00013c60                serial_putc
+                0x00013c68                serial_putc_raw
+                0x00013c70                serial_puts
+                0x00013c78                serial_getc
+                0x00013c80                serial_tstc
+                0x00013c88                serial_setbrg
+ .text          0x00013c90      0x248 drivers/spi/libspi.o
+                0x00013d70                spi_init
+                0x00013d8c                spi_cs_is_valid
+                0x00013d9c                spi_setup_slave
+                0x00013dec                spi_free_slave
+                0x00013df0                spi_claim_bus
+                0x00013e04                spi_release_bus
+                0x00013e0c                spi_xfer
+ .text          0x00013ed8     0x3ff8 drivers/usb/gadget/libusb_gadget.o
+                0x00013ed8                usb_descriptor_fillbuf
+                0x00013f38                usb_gadget_config_buf
+                0x00013fd8                usb_ep_autoconfig
+                0x000141c8                usb_ep_autoconfig_reset
+                0x00015454                set_bit
+                0x0001548c                clear_bit
+                0x00015e7c                fsg_main_thread
+                0x00016fbc                fsg_init
+                0x00017468                usb_gadget_handle_interrupts
+                0x000178a8                usb_gadget_register_driver
+                0x00017cb0                board_ums_init
+                0x00017d3c                usb_gadget_get_string
+ .text          0x00017ed0     0x1798 drivers/usb/host/libusb_host.o
+                0x00018304                sohci_submit_job
+                0x00018808                rh_check_port_status
+                0x00018860                submit_common_msg
+                0x00018ef0                submit_bulk_msg
+                0x00018f08                submit_control_msg
+                0x000194cc                submit_int_msg
+                0x000194e8                usb_lowlevel_init
+                0x0001963c                usb_lowlevel_stop
+ .text          0x00019668     0x2b5c fs/fat/libfat.o
+                0x0001b064                fat_register_device
+                0x0001b1c8                do_fat_read
+                0x0001bc9c                file_fat_detectfs
+                0x0001bdf4                file_fat_ls
+                0x0001be04                file_fat_read
+                0x0001be3c                file_fat_write
+                0x0001be70                file_getfsname
+                0x0001be88                file_cd
+                0x0001c078                file_detectfs
+                0x0001c0b4                file_ls
+                0x0001c134                file_read
+ .text          0x0001c1c4     0x2d40 lib/libgeneric.o
+                0x0001c1c4                cyg_crc16
+                0x0001c20c                crc32_no_comp
+                0x0001c2ec                crc32
+                0x0001c300                crc32_wd
+                0x0001c304                crc7
+                0x0001c328                display_options
+                0x0001c348                print_size
+                0x0001c47c                print_buffer
+                0x0001c5e8                __div64_32
+                0x0001c6c8                gzfree
+                0x0001c6d0                gzalloc
+                0x0001c6e0                zunzip
+                0x0001c7e4                gunzip
+                0x0001c8a8                hcreate_r
+                0x0001c954                hdestroy_r
+                0x0001c9c8                hstrstr_r
+                0x0001ca74                hmatch_r
+                0x0001cb14                hsearch_r
+                0x0001cdfc                hdelete_r
+                0x0001ce84                hexport_r
+                0x0001d12c                himport_r
+                0x0001d370                ldiv
+                0x0001d5f0                lmb_dump_all
+                0x0001d5f4                lmb_init
+                0x0001d61c                lmb_add
+                0x0001d620                lmb_free
+                0x0001d718                lmb_reserve
+                0x0001d720                lmb_overlaps_region
+                0x0001d77c                __lmb_alloc_base
+                0x0001d890                lmb_alloc_base
+                0x0001d8c4                lmb_alloc
+                0x0001d8cc                lmb_is_reserved
+                0x0001d92c                board_lmb_reserve
+                0x0001d92c                __board_lmb_reserve
+                0x0001d930                __arch_lmb_reserve
+                0x0001d934                string_to_ip
+                0x0001d9a4                qsort
+                0x0001da6c                strcmp_compar
+                0x0001da78                strcpy
+                0x0001da90                strncpy
+                0x0001dab4                strcat
+                0x0001dae0                strncat
+                0x0001db34                strcmp
+                0x0001db5c                strncmp
+                0x0001dba0                strchr
+                0x0001dbd4                skip_spaces
+                0x0001dbfc                strlen
+                0x0001dc1c                strim
+                0x0001dc74                strrchr
+                0x0001dcb0                strnlen
+                0x0001dcd8                strdup
+                0x0001dd0c                strspn
+                0x0001dd4c                strpbrk
+                0x0001dd88                strtok
+                0x0001de00                strsep
+                0x0001de34                strswab
+                0x0001de80                memset
+                0x0001dee8                bcopy
+                0x0001df10                memcpy
+                0x0001df7c                memmove
+                0x0001dfec                memcmp
+                0x0001e020                memscan
+                0x0001e04c                strstr
+                0x0001e0ac                memchr
+                0x0001e0dc                strmhz
+                0x0001e148                udelay
+                0x0001e174                mdelay
+                0x0001e708                simple_strtoul
+                0x0001e7c4                strict_strtoul
+                0x0001e83c                simple_strtol
+                0x0001e864                ustrtoul
+                0x0001e8d8                simple_strtoull
+                0x0001e9cc                vsprintf
+                0x0001ee30                sprintf
+                0x0001ee54                panic
+                0x0001ee98                __assert_fail
+                0x0001eeac                simple_itoa
+ .text          0x0001ef04     0x2688 lib/zlib/libz.o
+                0x0001ef04                zcfree
+                0x0001ef0c                zcalloc
+                0x0001ef14                inflate_fast
+                0x0001f4a4                inflate_table
+                0x0001fa20                inflateReset
+                0x0001faa0                inflateInit2_
+                0x0001fba8                inflateInit_
+                0x0001fbbc                inflateEnd
+                0x0001fc28                adler32
+                0x0001ff0c                inflate
+ .text          0x0002158c      0x164 board/keyasic/ka2000/libka2000.o
+                0x0002158c                board_init
+                0x000215e8                misc_init_r
+                0x000215f0                board_late_init
+                0x00021684                flash_init
+                0x0002168c                do_remap
+                0x000216b8                dram_init
+                0x000216e8                coloured_LED_init
+                0x000216ec                ka_board_init
+ .text          0x000216f0       0x24 /home/victor/u-boot/u-boot-2012.10/arch/arm/lib/eabi_compat.o
+                0x000216f0                raise
+                0x0002170c                __aeabi_unwind_cpp_pr0
+                0x00021710                __aeabi_unwind_cpp_pr1
+ .text          0x00021714      0x20c /home/victor/Tools/arm-2011.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_udivsi3.o)
+                0x00021714                __udivsi3
+                0x00021714                __aeabi_uidiv
+                0x00021900                __aeabi_uidivmod
+ .text          0x00021920      0x240 /home/victor/Tools/arm-2011.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_divsi3.o)
+                0x00021920                __aeabi_idiv
+                0x00021920                __divsi3
+                0x00021b40                __aeabi_idivmod
+ .text          0x00021b60       0x1c /home/victor/Tools/arm-2011.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_lshrdi3.o)
+                0x00021b60                __aeabi_llsr
+                0x00021b60                __lshrdi3
+ .text          0x00021b7c       0x1c /home/victor/Tools/arm-2011.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_ashldi3.o)
+                0x00021b7c                __ashldi3
+                0x00021b7c                __aeabi_llsl
+ .text          0x00021b98       0x10 /home/victor/Tools/arm-2011.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_dvmd_lnx.o)
+                0x00021b98                __aeabi_ldiv0
+                0x00021b98                __aeabi_idiv0
+
+.glue_7         0x00021ba8        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x00021ba8        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x00021ba8        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x00021ba8        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x00021ba8        0x0
+ .iplt          0x00000000        0x0 arch/arm/cpu/arm926ejs/start.o
+                0x00021ba8                . = ALIGN (0x4)
+
+.rodata         0x00021ba8     0x6f5a
+ *(SORT(.rodata*))
+ .rodata        0x00021ba8       0x80 arch/arm/lib/libarm.o
+ .rodata        0x00021c28      0x3c7 common/libcommon.o
+                0x00021cac                version_string
+                0x00021cfc                default_environment
+ *fill*         0x00021fef        0x1 00
+ .rodata        0x00021ff0       0x18 disk/libdisk.o
+ .rodata        0x00022008       0x50 drivers/mmc/libmmc.o
+ .rodata        0x00022058       0x10 drivers/serial/libserial.o
+ .rodata        0x00022068       0xdc drivers/usb/gadget/libusb_gadget.o
+ .rodata        0x00022144       0x80 drivers/usb/host/libusb_host.o
+ .rodata        0x000221c4       0x18 fs/fat/libfat.o
+ .rodata        0x000221dc      0x828 lib/libgeneric.o
+                0x000227dc                crc7_syndrome_table
+                0x000228dc                _ctype
+                0x000229f3                hex_asc
+ .rodata        0x00022a04      0x9cc lib/zlib/libz.o
+                0x000233a8                z_errmsg
+ .rodata        0x000233d0       0x70 drivers/input/libinput.o
+ .rodata        0x00023440       0x11 drivers/spi/libspi.o
+ .rodata.str1.1
+                0x00023451      0x3de arch/arm/cpu/arm926ejs/keyasic/libkeyasic.o
+                                0x3fa (size before relaxing)
+ .rodata.str1.1
+                0x0002382f      0x34e arch/arm/lib/libarm.o
+                                0x369 (size before relaxing)
+ .rodata.str1.1
+                0x00023b7d     0x3318 common/libcommon.o
+                               0x3526 (size before relaxing)
+ .rodata.str1.1
+                0x00026e95      0x2d5 disk/libdisk.o
+                                0x2ff (size before relaxing)
+ .rodata.str1.1
+                0x00000000        0x6 drivers/input/libinput.o
+ .rodata.str1.1
+                0x0002716a      0x437 drivers/mmc/libmmc.o
+                                0x47b (size before relaxing)
+ .rodata.str1.1
+                0x000275a1       0x4a drivers/mtd/spi/libspi_flash.o
+                                 0x4e (size before relaxing)
+ .rodata.str1.1
+                0x000275eb        0xd drivers/spi/libspi.o
+ .rodata.str1.1
+                0x000275f8      0x5ee drivers/usb/gadget/libusb_gadget.o
+                                0x617 (size before relaxing)
+ .rodata.str1.1
+                0x00027be6      0x7dc drivers/usb/host/libusb_host.o
+ .rodata.str1.1
+                0x000283c2      0x354 fs/fat/libfat.o
+                                0x381 (size before relaxing)
+ .rodata.str1.1
+                0x00028716      0x184 lib/libgeneric.o
+                                0x18f (size before relaxing)
+ .rodata.str1.1
+                0x0002889a      0x21c lib/zlib/libz.o
+                                0x21d (size before relaxing)
+ .rodata.str1.1
+                0x00028ab6       0x31 board/keyasic/ka2000/libka2000.o
+                                 0x3b (size before relaxing)
+ .rodata.str1.1
+                0x00028ae7       0x1b /home/victor/u-boot/u-boot-2012.10/arch/arm/lib/eabi_compat.o
+
+.hash           0x00028b04       0x48
+ .hash          0x00028b04       0x48 arch/arm/cpu/arm926ejs/start.o
+                0x00028b4c                . = ALIGN (0x4)
+
+.data           0x00028b4c      0xa8c
+ *(.data)
+ .data          0x00028b4c        0x0 arch/arm/cpu/arm926ejs/start.o
+ .data          0x00028b4c        0x4 arch/arm/cpu/arm926ejs/keyasic/libkeyasic.o
+                0x00028b4c                m1_m2
+ .data          0x00028b50        0x0 arch/arm/cpu/arm926ejs/libarm926ejs.o
+ .data          0x00028b50       0x24 arch/arm/lib/libarm.o
+                0x00028b50                init_sequence
+ .data          0x00028b74        0x0 board/keyasic/common/libkeyasic.o
+ .data          0x00028b74      0x510 common/libcommon.o
+                0x00028c58                load_addr
+                0x00029074                env_name_spec
+                0x00029078                stdio_names
+ .data          0x00029084        0x0 disk/libdisk.o
+ .data          0x00029084       0xc6 drivers/input/libinput.o
+ *fill*         0x0002914a        0x2 00
+ .data          0x0002914c        0x4 drivers/mmc/libmmc.o
+ .data          0x00029150        0x0 drivers/mtd/spi/libspi_flash.o
+ .data          0x00029150        0x0 drivers/serial/libserial.o
+ .data          0x00029150        0x0 drivers/spi/libspi.o
+ .data          0x00029150      0x238 drivers/usb/gadget/libusb_gadget.o
+                0x000292f0                device_speed
+ .data          0x00029388       0x4b drivers/usb/host/libusb_host.o
+ *fill*         0x000293d3        0x1 00
+ .data          0x000293d4      0x204 fs/fat/libfat.o
+                0x000293d4                file_cwd
+ .data          0x000295d8        0x0 lib/libgeneric.o
+ .data          0x000295d8        0x0 lib/zlib/libz.o
+ .data          0x000295d8        0x0 board/keyasic/ka2000/libka2000.o
+ .data          0x000295d8        0x0 /home/victor/u-boot/u-boot-2012.10/arch/arm/lib/eabi_compat.o
+ .data          0x000295d8        0x0 /home/victor/Tools/arm-2011.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_udivsi3.o)
+ .data          0x000295d8        0x0 /home/victor/Tools/arm-2011.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_divsi3.o)
+ .data          0x000295d8        0x0 /home/victor/Tools/arm-2011.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_lshrdi3.o)
+ .data          0x000295d8        0x0 /home/victor/Tools/arm-2011.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_ashldi3.o)
+ .data          0x000295d8        0x0 /home/victor/Tools/arm-2011.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_dvmd_lnx.o)
+
+.got            0x000295d8        0x0
+ .got           0x00000000        0x0 arch/arm/cpu/arm926ejs/start.o
+
+.got.plt        0x000295d8        0xc
+ .got.plt       0x000295d8        0xc arch/arm/cpu/arm926ejs/start.o
+                0x000295d8                _GLOBAL_OFFSET_TABLE_
+
+.igot.plt       0x000295e4        0x0
+ .igot.plt      0x00000000        0x0 arch/arm/cpu/arm926ejs/start.o
+                0x000295e4                . = ALIGN (0x4)
+                0x000295e4                . = .
+                0x000295e4                __u_boot_cmd_start = .
+
+.u_boot_cmd     0x000295e4      0x390
+ *(.u_boot_cmd)
+ .u_boot_cmd    0x000295e4      0x390 common/libcommon.o
+                0x000295e4                __u_boot_cmd_bdinfo
+                0x000295fc                __u_boot_cmd_reset
+                0x00029614                __u_boot_cmd_go
+                0x0002962c                __u_boot_cmd_clk
+                0x00029644                __u_boot_cmd_coninfo
+                0x0002965c                __u_boot_cmd_echo
+                0x00029674                __u_boot_cmd_fatwrite
+                0x0002968c                __u_boot_cmd_fatinfo
+                0x000296a4                __u_boot_cmd_fatls
+                0x000296bc                __u_boot_cmd_fatload
+                0x000296d4                __u_boot_cmd_question_mark
+                0x000296ec                __u_boot_cmd_help
+                0x00029704                __u_boot_cmd_itest
+                0x0002971c                __u_boot_cmd_mtest
+                0x00029734                __u_boot_cmd_loop
+                0x0002974c                __u_boot_cmd_base
+                0x00029764                __u_boot_cmd_crc32
+                0x0002977c                __u_boot_cmd_cmp
+                0x00029794                __u_boot_cmd_cp
+                0x000297ac                __u_boot_cmd_mw
+                0x000297c4                __u_boot_cmd_nm
+                0x000297dc                __u_boot_cmd_mm
+                0x000297f4                __u_boot_cmd_md
+                0x0002980c                __u_boot_cmd_sleep
+                0x00029824                __u_boot_cmd_mmc
+                0x0002983c                __u_boot_cmd_mmcinfo
+                0x00029854                __u_boot_cmd_run
+                0x0002986c                __u_boot_cmd_setenv
+                0x00029884                __u_boot_cmd_printenv
+                0x0002989c                __u_boot_cmd_editenv
+                0x000298b4                __u_boot_cmd_env
+                0x000298cc                __u_boot_cmd_saveenv
+                0x000298e4                __u_boot_cmd_sf
+                0x000298fc                __u_boot_cmd_sspi
+                0x00029914                __u_boot_cmd_usbboot
+                0x0002992c                __u_boot_cmd_usb
+                0x00029944                __u_boot_cmd_ums
+                0x0002995c                __u_boot_cmd_version
+                0x00029974                __u_boot_cmd_end = .
+                0x00029974                . = ALIGN (0x4)
+                0x00029974                __image_copy_end = .
+
+.rel.dyn        0x00029974     0x3e38
+                0x00029974                __rel_dyn_start = .
+ *(.rel*)
+ .rel.got       0x00000000        0x0 arch/arm/cpu/arm926ejs/start.o
+ .rel.plt       0x00000000        0x0 arch/arm/cpu/arm926ejs/start.o
+ .rel.iplt      0x00000000        0x0 arch/arm/cpu/arm926ejs/start.o
+ .rel.text      0x00029974     0x2900 arch/arm/cpu/arm926ejs/start.o
+ .rel.rodata    0x0002c274      0x5d8 arch/arm/cpu/arm926ejs/start.o
+ .rel.data      0x0002c84c      0xaa0 arch/arm/cpu/arm926ejs/start.o
+ .rel.u_boot_cmd
+                0x0002d2ec      0x4c0 arch/arm/cpu/arm926ejs/start.o
+                0x0002d7ac                __rel_dyn_end = .
+
+.dynsym         0x0002d7ac       0xd0
+                0x0002d7ac                __dynsym_start = .
+ *(.dynsym)
+ .dynsym        0x0002d7ac       0xd0 arch/arm/cpu/arm926ejs/start.o
+                0x0002d87c                _end = .
+                0x0002e000                . = ALIGN (0x1000)
+
+.mmutable
+ *(.mmutable)
+
+.bss            0x00029974    0x495ac
+                0x00029974                __bss_start = .
+ *(.bss)
+ .bss           0x00029974        0x0 arch/arm/cpu/arm926ejs/start.o
+ .bss           0x00029974     0x40f0 arch/arm/cpu/arm926ejs/keyasic/libkeyasic.o
+                0x000299a4                RCA0
+                0x000299a8                RCA1
+                0x000299ac                m1_err
+                0x000299b0                CRCardErr
+                0x000299b4                CRCmdDone
+                0x000299b8                CRXferDone
+                0x000299bc                CRXferBDone
+                0x000299c0                CRXferFinish
+                0x000299c4                OCR2
+                0x000299c8                OCR1
+                0x000299cc                HighCap
+                0x000299d0                csd
+                0x000299e0                m2_err
+                0x000299e4                RSP1
+                0x00029a5c                mmc_inited
+                0x00029a60                swctl
+                0x00029a64                buf
+ .bss           0x0002da64        0x0 arch/arm/cpu/arm926ejs/libarm926ejs.o
+ .bss           0x0002da64        0x8 arch/arm/lib/libarm.o
+                0x0002da64                monitor_flash_len
+ .bss           0x0002da6c        0x0 board/keyasic/common/libkeyasic.o
+ *fill*         0x0002da6c       0x14 00
+ .bss           0x0002da80     0xb940 common/libcommon.o
+                0x0002da94                save_size
+                0x0002da98                save_addr
+                0x0002daf8                mem_malloc_brk
+                0x0002dafc                mem_malloc_start
+                0x0002db00                mem_malloc_end
+                0x0002db3c                env_htab
+                0x0002db4c                console_buffer
+                0x0002dd8c                stdio_devices
+                0x0002ddc0                usb_started
+ .bss           0x000393c0        0x0 disk/libdisk.o
+ .bss           0x000393c0        0x0 drivers/input/libinput.o
+ .bss           0x000393c0        0x8 drivers/mmc/libmmc.o
+ .bss           0x000393c8        0x0 drivers/mtd/spi/libspi_flash.o
+ .bss           0x000393c8        0x0 drivers/serial/libserial.o
+ .bss           0x000393c8        0x4 drivers/spi/libspi.o
+ .bss           0x000393cc     0x843c drivers/usb/gadget/libusb_gadget.o
+                0x000393d4                ums_info
+                0x0003943c                items
+                0x0003946c                epts
+                0x00039800                system_level
+                0x00039804                device_state
+                0x00039808                diskinfo
+ *fill*         0x00041808       0xf8 00
+ .bss           0x00041900     0x1500 drivers/usb/host/libusb_host.o
+                0x00041900                ptd
+                0x00041a50                ohci_dev
+                0x00041be0                devgone
+                0x00041be4                phcca
+                0x00041c00                ghcca
+                0x00041d00                gtd
+ .bss           0x00042e00    0x30100 fs/fat/libfat.o
+                0x00042e80                get_vfatname_block
+                0x00052e80                get_dentfromdir_block
+                0x00062ec0                do_fat_read_block
+ .bss           0x00072f00       0x1e lib/libgeneric.o
+                0x00072f00                errno
+                0x00072f04                ___strtok
+ .bss           0x00072f1e        0x0 lib/zlib/libz.o
+ .bss           0x00072f1e        0x0 board/keyasic/ka2000/libka2000.o
+ .bss           0x00072f1e        0x0 /home/victor/u-boot/u-boot-2012.10/arch/arm/lib/eabi_compat.o
+ .bss           0x00072f1e        0x0 /home/victor/Tools/arm-2011.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_udivsi3.o)
+ .bss           0x00072f1e        0x0 /home/victor/Tools/arm-2011.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_divsi3.o)
+ .bss           0x00072f1e        0x0 /home/victor/Tools/arm-2011.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_lshrdi3.o)
+ .bss           0x00072f1e        0x0 /home/victor/Tools/arm-2011.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_ashldi3.o)
+ .bss           0x00072f1e        0x0 /home/victor/Tools/arm-2011.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_dvmd_lnx.o)
+                0x00072f20                . = ALIGN (0x4)
+ *fill*         0x00072f1e        0x2 00
+                0x00072f20                __bss_end__ = .
+
+.dynbss         0x0002e000        0x0 load address 0x00072f20
+ .dynbss        0x00000000        0x0 arch/arm/cpu/arm926ejs/start.o
+
+/DISCARD/
+ *(.dynstr*)
+ *(.dynamic*)
+ *(.plt*)
+ *(.interp*)
+ *(.gnu*)
+Address of section .text set to 0x2e00
+LOAD arch/arm/cpu/arm926ejs/start.o
+START GROUP
+LOAD api/libapi.o
+LOAD arch/arm/cpu/arm926ejs/keyasic/libkeyasic.o
+LOAD arch/arm/cpu/arm926ejs/libarm926ejs.o
+LOAD arch/arm/lib/libarm.o
+LOAD board/keyasic/common/libkeyasic.o
+LOAD common/libcommon.o
+LOAD disk/libdisk.o
+LOAD drivers/block/libblock.o
+LOAD drivers/input/libinput.o
+LOAD drivers/misc/libmisc.o
+LOAD drivers/mmc/libmmc.o
+LOAD drivers/mtd/spi/libspi_flash.o
+LOAD drivers/serial/libserial.o
+LOAD drivers/spi/libspi.o
+LOAD drivers/usb/eth/libusb_eth.o
+LOAD drivers/usb/gadget/libusb_gadget.o
+LOAD drivers/usb/host/libusb_host.o
+LOAD drivers/usb/musb/libusb_musb.o
+LOAD drivers/usb/phy/libusb_phy.o
+LOAD drivers/usb/ulpi/libusb_ulpi.o
+LOAD fs/fat/libfat.o
+LOAD fs/fdos/libfdos.o
+LOAD lib/libgeneric.o
+LOAD lib/zlib/libz.o
+LOAD post/libpost.o
+LOAD board/keyasic/ka2000/libka2000.o
+END GROUP
+LOAD /home/victor/u-boot/u-boot-2012.10/arch/arm/lib/eabi_compat.o
+LOAD /home/victor/Tools/arm-2011.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a
+OUTPUT(u-boot elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x29
+ .ARM.attributes
+                0x00000000       0x1d arch/arm/cpu/arm926ejs/start.o
+ .ARM.attributes
+                0x0000001d       0x2b arch/arm/cpu/arm926ejs/keyasic/libkeyasic.o
+ .ARM.attributes
+                0x00000048       0x2d arch/arm/cpu/arm926ejs/libarm926ejs.o
+ .ARM.attributes
+                0x00000075       0x2d arch/arm/lib/libarm.o
+ .ARM.attributes
+                0x000000a2       0x2d board/keyasic/common/libkeyasic.o
+ .ARM.attributes
+                0x000000cf       0x2d common/libcommon.o
+ .ARM.attributes
+                0x000000fc       0x2d disk/libdisk.o
+ .ARM.attributes
+                0x00000129       0x2d drivers/input/libinput.o
+ .ARM.attributes
+                0x00000156       0x2d drivers/mmc/libmmc.o
+ .ARM.attributes
+                0x00000183       0x2d drivers/mtd/spi/libspi_flash.o
+ .ARM.attributes
+                0x000001b0       0x2d drivers/serial/libserial.o
+ .ARM.attributes
+                0x000001dd       0x2d drivers/spi/libspi.o
+ .ARM.attributes
+                0x0000020a       0x2d drivers/usb/gadget/libusb_gadget.o
+ .ARM.attributes
+                0x00000237       0x2d drivers/usb/host/libusb_host.o
+ .ARM.attributes
+                0x00000264       0x2d fs/fat/libfat.o
+ .ARM.attributes
+                0x00000291       0x2d lib/libgeneric.o
+ .ARM.attributes
+                0x000002be       0x2d lib/zlib/libz.o
+ .ARM.attributes
+                0x000002eb       0x2b board/keyasic/ka2000/libka2000.o
+ .ARM.attributes
+                0x00000316       0x2d /home/victor/u-boot/u-boot-2012.10/arch/arm/lib/eabi_compat.o
+ .ARM.attributes
+                0x00000343       0x1f /home/victor/Tools/arm-2011.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x00000362       0x1f /home/victor/Tools/arm-2011.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000381       0x1f /home/victor/Tools/arm-2011.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_lshrdi3.o)
+ .ARM.attributes
+                0x000003a0       0x1f /home/victor/Tools/arm-2011.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_ashldi3.o)
+ .ARM.attributes
+                0x000003bf       0x1f /home/victor/Tools/arm-2011.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_dvmd_lnx.o)
+
+.comment        0x00000000       0x30
+ .comment       0x00000000       0x30 arch/arm/cpu/arm926ejs/keyasic/libkeyasic.o
+                                 0xf5 (size before relaxing)
+ .comment       0x00000000       0x62 arch/arm/cpu/arm926ejs/libarm926ejs.o
+ .comment       0x00000000      0x126 arch/arm/lib/libarm.o
+ .comment       0x00000000       0x31 board/keyasic/common/libkeyasic.o
+ .comment       0x00000000      0x620 common/libcommon.o
+ .comment       0x00000000       0x62 disk/libdisk.o
+ .comment       0x00000000       0x31 drivers/input/libinput.o
+ .comment       0x00000000       0x62 drivers/mmc/libmmc.o
+ .comment       0x00000000       0x62 drivers/mtd/spi/libspi_flash.o
+ .comment       0x00000000       0x62 drivers/serial/libserial.o
+ .comment       0x00000000       0x31 drivers/spi/libspi.o
+ .comment       0x00000000       0xf5 drivers/usb/gadget/libusb_gadget.o
+ .comment       0x00000000       0x31 drivers/usb/host/libusb_host.o
+ .comment       0x00000000       0x62 fs/fat/libfat.o
+ .comment       0x00000000      0x341 lib/libgeneric.o
+ .comment       0x00000000       0x31 lib/zlib/libz.o
+ .comment       0x00000000       0x62 board/keyasic/ka2000/libka2000.o
+ .comment       0x00000000       0x31 /home/victor/u-boot/u-boot-2012.10/arch/arm/lib/eabi_compat.o
+
+.note.GNU-stack
+                0x00000000        0x0
+ .note.GNU-stack
+                0x00000000        0x0 arch/arm/cpu/arm926ejs/keyasic/libkeyasic.o
+ .note.GNU-stack
+                0x00000000        0x0 arch/arm/cpu/arm926ejs/libarm926ejs.o
+ .note.GNU-stack
+                0x00000000        0x0 arch/arm/lib/libarm.o
+ .note.GNU-stack
+                0x00000000        0x0 board/keyasic/common/libkeyasic.o
+ .note.GNU-stack
+                0x00000000        0x0 common/libcommon.o
+ .note.GNU-stack
+                0x00000000        0x0 disk/libdisk.o
+ .note.GNU-stack
+                0x00000000        0x0 drivers/input/libinput.o
+ .note.GNU-stack
+                0x00000000        0x0 drivers/mmc/libmmc.o
+ .note.GNU-stack
+                0x00000000        0x0 drivers/mtd/spi/libspi_flash.o
+ .note.GNU-stack
+                0x00000000        0x0 drivers/serial/libserial.o
+ .note.GNU-stack
+                0x00000000        0x0 drivers/spi/libspi.o
+ .note.GNU-stack
+                0x00000000        0x0 drivers/usb/gadget/libusb_gadget.o
+ .note.GNU-stack
+                0x00000000        0x0 drivers/usb/host/libusb_host.o
+ .note.GNU-stack
+                0x00000000        0x0 fs/fat/libfat.o
+ .note.GNU-stack
+                0x00000000        0x0 lib/libgeneric.o
+ .note.GNU-stack
+                0x00000000        0x0 lib/zlib/libz.o
+ .note.GNU-stack
+                0x00000000        0x0 board/keyasic/ka2000/libka2000.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/victor/u-boot/u-boot-2012.10/arch/arm/lib/eabi_compat.o
+ .note.GNU-stack
+                0x00000000        0x0 /home/victor/Tools/arm-2011.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_udivsi3.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/victor/Tools/arm-2011.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_divsi3.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/victor/Tools/arm-2011.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_lshrdi3.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/victor/Tools/arm-2011.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_ashldi3.o)
+ .note.GNU-stack
+                0x00000000        0x0 /home/victor/Tools/arm-2011.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_dvmd_lnx.o)
+
+.debug_frame    0x00000000       0x40
+ .debug_frame   0x00000000       0x20 /home/victor/Tools/arm-2011.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_udivsi3.o)
+ .debug_frame   0x00000020       0x20 /home/victor/Tools/arm-2011.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.6.1/libgcc.a(_divsi3.o)

@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/bits
+END
+usb.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/bits/usb.h
+END
+trace.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/bits/trace.h
+END
+twi.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/bits/twi.h
+END
+sport.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/bits/sport.h
+END
+sdh.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/bits/sdh.h
+END
+bootrom.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/bits/bootrom.h
+END
+ports-a.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/bits/ports-a.h
+END
+ports-b.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/bits/ports-b.h
+END
+pll.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/bits/pll.h
+END
+ports-c.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/bits/ports-c.h
+END
+rtc.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/bits/rtc.h
+END
+ppi.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/bits/ppi.h
+END
+core.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/bits/core.h
+END
+ports-d.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/bits/ports-d.h
+END
+ports-e.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/bits/ports-e.h
+END
+ports-f.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/bits/ports-f.h
+END
+spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/bits/spi.h
+END
+ports-g.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/bits/ports-g.h
+END
+ports-h.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/bits/ports-h.h
+END
+ports-i.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/bits/ports-i.h
+END
+eppi.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/bits/eppi.h
+END
+ports-j.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/bits/ports-j.h
+END
+watchdog.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/bits/watchdog.h
+END
+dma.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/bits/dma.h
+END
+lockbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/bits/lockbox.h
+END
+mpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/bits/mpu.h
+END
+otp.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/bits/otp.h
+END
+emac.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/bits/emac.h
+END
+uart.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/bits/uart.h
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/bits/timer.h
+END
+ebiu.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/bits/ebiu.h
+END
+pata.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/blackfin/include/asm/mach-common/bits/pata.h
+END

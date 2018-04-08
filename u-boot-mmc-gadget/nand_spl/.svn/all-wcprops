@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/nand_spl
+END
+nand_boot.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/nand_spl/nand_boot.c
+END
+nand_boot_fsl_ifc.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/nand_spl/nand_boot_fsl_ifc.c
+END
+nand_boot_fsl_elbc.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/nand_spl/nand_boot_fsl_elbc.c
+END
+nand_boot_fsl_nfc.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/nand_spl/nand_boot_fsl_nfc.c
+END

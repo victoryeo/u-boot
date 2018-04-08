@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/fs/ext2
+END
+dev.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/fs/ext2/dev.c
+END
+ext2fs.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/fs/ext2/ext2fs.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/fs/ext2/Makefile
+END

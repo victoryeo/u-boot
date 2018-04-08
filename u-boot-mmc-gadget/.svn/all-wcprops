@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget
+END
+log
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/log
+END
+u-boot.map
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/u-boot.map
+END
+keyasic_config.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/keyasic_config.sh
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/u-boot.lds
+END
+snapshot.commit
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/snapshot.commit
+END
+.boards.depend
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/.boards.depend
+END
+mkconfig
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/mkconfig
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/README
+END
+CREDITS
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/CREDITS
+END
+keyasic_make.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/keyasic_make.sh
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/rules.mk
+END
+System.map
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/System.map
+END
+u-boot.srec
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/u-boot.srec
+END
+u-boot
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/u-boot
+END
+MAKEALL
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/MAKEALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/COPYING
+END
+boards.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/boards.cfg
+END
+MAINTAINERS
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/MAINTAINERS
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/config.mk
+END
+u-boot.bin
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/u-boot.bin
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/Makefile
+END

@@ -1,0 +1,12 @@
+/* Automatically generated - do not edit */
+#define CONFIG_SYS_ARCH  "arm"
+#define CONFIG_SYS_CPU   "arm926ejs"
+#define CONFIG_SYS_BOARD "ka2000"
+#define CONFIG_SYS_VENDOR "keyasic"
+#define CONFIG_SYS_SOC    "keyasic"
+#define CONFIG_BOARDDIR board/keyasic/ka2000
+#include <config_cmd_defaults.h>
+#include <config_defaults.h>
+#include <configs/ka2000.h>
+#include <asm/config.h>
+#include <config_fallbacks.h>

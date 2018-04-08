@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/nvidia/dts
+END
+tegra2-ventana.dts
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/nvidia/dts/tegra2-ventana.dts
+END
+tegra2-harmony.dts
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/nvidia/dts/tegra2-harmony.dts
+END
+tegra2-seaboard.dts
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/nvidia/dts/tegra2-seaboard.dts
+END
+tegra2-whistler.dts
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/nvidia/dts/tegra2-whistler.dts
+END

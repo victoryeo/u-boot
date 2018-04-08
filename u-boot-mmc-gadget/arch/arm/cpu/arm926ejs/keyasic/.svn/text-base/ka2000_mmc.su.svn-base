@@ -1,0 +1,9 @@
+ka2000_mmc.c:336:10:mmc_sendcmd	32	static
+ka2000_mmc.c:135:10:mmc_bwrite	40	static
+ka2000_mmc.c:101:10:mmc_bread	40	static
+ka2000_mmc.c:30:6:test_switch_register	528	static
+ka2000_mmc.c:330:6:record_cmd	0	static
+ka2000_mmc.c:369:5:find_fat_partition	520	static
+ka2000_mmc.c:421:6:rebuild_sd	0	static
+ka2000_mmc.c:445:5:detect_program_bin	264	static
+ka2000_mmc.c:722:5:mmc_legacy_init	8	static

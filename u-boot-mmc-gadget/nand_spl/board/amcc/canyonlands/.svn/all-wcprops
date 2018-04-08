@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/nand_spl/board/amcc/canyonlands
+END
+u-boot.lds
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/nand_spl/board/amcc/canyonlands/u-boot.lds
+END
+config.mk
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/nand_spl/board/amcc/canyonlands/config.mk
+END
+ddr2_fixed.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/nand_spl/board/amcc/canyonlands/ddr2_fixed.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/nand_spl/board/amcc/canyonlands/Makefile
+END

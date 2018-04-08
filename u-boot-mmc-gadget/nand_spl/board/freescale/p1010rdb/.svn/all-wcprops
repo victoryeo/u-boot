@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/nand_spl/board/freescale/p1010rdb
+END
+nand_boot.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/nand_spl/board/freescale/p1010rdb/nand_boot.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/nand_spl/board/freescale/p1010rdb/Makefile
+END

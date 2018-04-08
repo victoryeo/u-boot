@@ -1,0 +1,14 @@
+cpu.c:62:12:null_delay	8	static
+cpu.c:39:6:buzzer_off	8	static
+cpu.c:44:6:buzzer_on	8	static
+cpu.c:87:6:set_clock	40	static
+cpu.c:211:5:clk_get	0	static
+cpu.c:235:5:arch_cpu_init	8	static
+cpu.c:259:6:pagetbl_setup	24	static
+cpu.c:265:6:pagetbl_init	8	static
+cpu.c:272:5:arch_misc_init	8	static
+cpu.c:324:5:program_mode	0	static
+cpu.c:350:5:pll_ratio	0	static
+cpu.c:475:15:get_clock_f	32	static
+cpu.c:386:15:set_clock_f	56	static
+cpu.c:510:14:clk_get_dev	0	static

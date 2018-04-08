@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/Marvell/mv88f6281gtw_ge
+END
+kwbimage.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/Marvell/mv88f6281gtw_ge/kwbimage.cfg
+END
+mv88f6281gtw_ge.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/Marvell/mv88f6281gtw_ge/mv88f6281gtw_ge.c
+END
+mv88f6281gtw_ge.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/Marvell/mv88f6281gtw_ge/mv88f6281gtw_ge.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/board/Marvell/mv88f6281gtw_ge/Makefile
+END

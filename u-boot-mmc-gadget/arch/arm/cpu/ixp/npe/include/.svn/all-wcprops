@@ -1,0 +1,605 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include
+END
+IxOsalOsIxp400CustomizedMapping.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsalOsIxp400CustomizedMapping.h
+END
+IxNpeDlNpeMgrEcRegisters_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxNpeDlNpeMgrEcRegisters_p.h
+END
+IxAtmdAcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxAtmdAcc.h
+END
+IxOsalBackwardBufferMgt.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsalBackwardBufferMgt.h
+END
+IxOsalOem.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsalOem.h
+END
+IxOsalOsIxp400.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsalOsIxp400.h
+END
+IxOsServicesMemAccess.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsServicesMemAccess.h
+END
+IxDmaAcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxDmaAcc.h
+END
+IxUART.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxUART.h
+END
+IxOsalBackwardAssert.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsalBackwardAssert.h
+END
+IxAtmSch.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxAtmSch.h
+END
+ix_ossl.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/ix_ossl.h
+END
+IxOsServicesMemMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsServicesMemMap.h
+END
+IxOsalOsAssert.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsalOsAssert.h
+END
+IxEthNpe.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxEthNpe.h
+END
+IxOsalTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsalTypes.h
+END
+IxEthAccMac_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxEthAccMac_p.h
+END
+IxEthAcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxEthAcc.h
+END
+IxQMgrLog_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxQMgrLog_p.h
+END
+IxOsalEndianess.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsalEndianess.h
+END
+ix_error.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/ix_error.h
+END
+IxNpeMhReceive_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxNpeMhReceive_p.h
+END
+IxNpeDlImageMgr_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxNpeDlImageMgr_p.h
+END
+IxQMgrDispatcher_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxQMgrDispatcher_p.h
+END
+IxOsalBackward.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsalBackward.h
+END
+IxEthMii_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxEthMii_p.h
+END
+os_datatypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/os_datatypes.h
+END
+IxOsalBackwardCacheMMU.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsalBackwardCacheMMU.h
+END
+IxNpeMhSend_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxNpeMhSend_p.h
+END
+IxEthDBLocks_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxEthDBLocks_p.h
+END
+IxOsalOsBufferMgt.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsalOsBufferMgt.h
+END
+IxParityENAcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxParityENAcc.h
+END
+IxOsalBackwardOsServices.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsalBackwardOsServices.h
+END
+IxQMgrAqmIf_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxQMgrAqmIf_p.h
+END
+IxOsPrintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsPrintf.h
+END
+IxEthAccMii_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxEthAccMii_p.h
+END
+IxQMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxQMgr.h
+END
+IxSspAcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxSspAcc.h
+END
+IxOsServicesEndianess.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsServicesEndianess.h
+END
+IxAtmdAccCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxAtmdAccCtrl.h
+END
+IxNpeA.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxNpeA.h
+END
+ix_macros.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/ix_macros.h
+END
+IxI2cDrv.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxI2cDrv.h
+END
+IxOsalBackwardMemMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsalBackwardMemMap.h
+END
+IxPerfProfAcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxPerfProfAcc.h
+END
+IxNpeMhMacros_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxNpeMhMacros_p.h
+END
+IxOsalUtilitySymbols.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsalUtilitySymbols.h
+END
+IxOsalBackwardOssl.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsalBackwardOssl.h
+END
+IxOsal.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsal.h
+END
+IxAtmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxAtmm.h
+END
+IxOsalBufferMgt.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsalBufferMgt.h
+END
+IxQueueAssignments.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxQueueAssignments.h
+END
+IxNpeMhSolicitedCbMgr_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxNpeMhSolicitedCbMgr_p.h
+END
+ix_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/ix_types.h
+END
+IxNpeMhUnsolicitedCbMgr_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxNpeMhUnsolicitedCbMgr_p.h
+END
+IxOsalBufferMgtDefault.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsalBufferMgtDefault.h
+END
+IxTimerCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxTimerCtrl.h
+END
+IxEthAcc_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxEthAcc_p.h
+END
+IxNpeMicrocode.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxNpeMicrocode.h
+END
+IxNpeMh.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxNpeMh.h
+END
+IxNpeDlNpeMgrUtils_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxNpeDlNpeMgrUtils_p.h
+END
+IxNpeMhConfig_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxNpeMhConfig_p.h
+END
+IxEthAccDataPlane_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxEthAccDataPlane_p.h
+END
+npe.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/npe.h
+END
+IxOsalConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsalConfig.h
+END
+IxOsCacheMMU.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsCacheMMU.h
+END
+IxOsalIoMem.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsalIoMem.h
+END
+IxOsBuffPoolMgt.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsBuffPoolMgt.h
+END
+IxNpeDlMacros_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxNpeDlMacros_p.h
+END
+IxQMgrQCfg_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxQMgrQCfg_p.h
+END
+IxQMgrQAccess_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxQMgrQAccess_p.h
+END
+IxNpeDlNpeMgr_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxNpeDlNpeMgr_p.h
+END
+IxOsServicesComponents.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsServicesComponents.h
+END
+IxOsBuffMgt.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsBuffMgt.h
+END
+IxEthDBMessages_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxEthDBMessages_p.h
+END
+IxEthDBPortDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxEthDBPortDefs.h
+END
+IxOsalOsUtilitySymbols.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsalOsUtilitySymbols.h
+END
+IxOsalOs.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsalOs.h
+END
+IxAssert.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxAssert.h
+END
+IxNpeDl.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxNpeDl.h
+END
+IxTimeSyncAcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxTimeSyncAcc.h
+END
+IxVersionId.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxVersionId.h
+END
+IxHssAcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxHssAcc.h
+END
+IxTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxTypes.h
+END
+IxOsBufLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsBufLib.h
+END
+IxEthDB_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxEthDB_p.h
+END
+IxAtmTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxAtmTypes.h
+END
+IxEthDBLog_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxEthDBLog_p.h
+END
+IxEthDBQoS.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxEthDBQoS.h
+END
+IxEthMii.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxEthMii.h
+END
+IxOsalMemAccess.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsalMemAccess.h
+END
+IxOsalAssert.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsalAssert.h
+END
+IxEthAccQueueAssign_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxEthAccQueueAssign_p.h
+END
+IxFeatureCtrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxFeatureCtrl.h
+END
+ix_os_type.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/ix_os_type.h
+END
+IxQMgrDefines_p.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxQMgrDefines_p.h
+END
+IxOsServices.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsServices.h
+END
+IxOsalOsTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxOsalOsTypes.h
+END
+IxEthDB.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/IxEthDB.h
+END
+ix_symbols.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/arch/arm/cpu/ixp/npe/include/ix_symbols.h
+END

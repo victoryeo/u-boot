@@ -1,0 +1,104 @@
+10
+
+dir
+29
+http://118.163.54.41/p1037/socgen2/trunk/u-boot-mmc-gadget/arch/arm/cpu
+http://118.163.54.41/p1037/socgen2
+
+
+
+2012-10-24T09:36:27.194672Z
+29
+victor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+82ff6e04-69a7-420e-9042-eed9084a3c3d
+
+s3c44b0
+dir
+
+arm926ejs
+dir
+
+u-boot.lds
+file
+
+
+
+
+2012-11-23T07:57:18.151529Z
+d589f2fb252e1b08e4f40fd929e342bf
+2012-10-24T09:36:27.194672Z
+29
+victor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1973
+
+lh7a40x
+dir
+
+pxa
+dir
+
+arm1136
+dir
+
+armv7
+dir
+
+arm720t
+dir
+
+arm920t
+dir
+
+arm1176
+dir
+
+ixp
+dir
+
+arm925t
+dir
+
+sa1100
+dir
+
+arm_intcm
+dir
+
+arm946es
+dir
+

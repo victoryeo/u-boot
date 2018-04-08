@@ -1,0 +1,6 @@
+ns16550.c:37:6:NS16550_init	0	static
+ns16550.c:67:5:null_delay	8	static
+ns16550.c:76:6:NS16550_reinit	16	static
+ns16550.c:103:6:NS16550_putc	0	static
+ns16550.c:121:6:NS16550_getc	8	static
+ns16550.c:135:5:NS16550_tstc	0	static

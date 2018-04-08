@@ -1,0 +1,3 @@
+env_sf.c:241:5:saveenv	32800	static
+env_sf.c:316:6:env_relocate_spec	32776	static
+env_sf.c:344:5:env_init	0	static

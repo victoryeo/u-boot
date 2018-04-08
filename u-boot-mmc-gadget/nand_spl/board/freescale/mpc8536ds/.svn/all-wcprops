@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/nand_spl/board/freescale/mpc8536ds
+END
+nand_boot.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/nand_spl/board/freescale/mpc8536ds/nand_boot.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/nand_spl/board/freescale/mpc8536ds/Makefile
+END

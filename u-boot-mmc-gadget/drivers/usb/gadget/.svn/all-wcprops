@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/usb/gadget
+END
+omap1510_udc.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/usb/gadget/omap1510_udc.c
+END
+.depend.file_storage
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/usb/gadget/.depend.file_storage
+END
+.depend.config
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/usb/gadget/.depend.config
+END
+kagen2_udc.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p1037/socgen2/!svn/ver/40/trunk/u-boot-mmc-gadget/drivers/usb/gadget/kagen2_udc.c
+END
+file_storage.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p1037/socgen2/!svn/ver/39/trunk/u-boot-mmc-gadget/drivers/usb/gadget/file_storage.c
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/usb/gadget/config.c
+END
+kagen2_udc.su
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/usb/gadget/kagen2_udc.su
+END
+ether.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/usb/gadget/ether.c
+END
+epautoconf.su
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/usb/gadget/epautoconf.su
+END
+storage_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/32/trunk/u-boot-mmc-gadget/drivers/usb/gadget/storage_common.c
+END
+mv_udc.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/usb/gadget/mv_udc.c
+END
+rndis.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/usb/gadget/rndis.c
+END
+designware_udc.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/usb/gadget/designware_udc.c
+END
+rndis.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/usb/gadget/rndis.h
+END
+ep0.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/usb/gadget/ep0.c
+END
+gadget_chips.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/usb/gadget/gadget_chips.h
+END
+core.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/usb/gadget/core.c
+END
+ep0.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/usb/gadget/ep0.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/usb/gadget/Makefile
+END
+.depend
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/usb/gadget/.depend
+END
+.depend.epautoconf
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/usb/gadget/.depend.epautoconf
+END
+s3c_udc_otg_xfer_dma.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/usb/gadget/s3c_udc_otg_xfer_dma.c
+END
+composite.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/usb/gadget/composite.c
+END
+ndis.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/usb/gadget/ndis.h
+END
+epautoconf.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p1037/socgen2/!svn/ver/36/trunk/u-boot-mmc-gadget/drivers/usb/gadget/epautoconf.c
+END
+file_storage.su
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/usb/gadget/file_storage.su
+END
+config.su
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/usb/gadget/config.su
+END
+.depend.usbstring
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/usb/gadget/.depend.usbstring
+END
+usbstring.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/usb/gadget/usbstring.c
+END
+mpc8xx_udc.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/usb/gadget/mpc8xx_udc.c
+END
+pxa27x_udc.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/usb/gadget/pxa27x_udc.c
+END
+usbstring.su
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/usb/gadget/usbstring.su
+END
+s3c_udc_otg.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/usb/gadget/s3c_udc_otg.c
+END
+regs-otg.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/usb/gadget/regs-otg.h
+END
+.depend.kagen2_udc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p1037/socgen2/!svn/ver/29/trunk/u-boot-mmc-gadget/drivers/usb/gadget/.depend.kagen2_udc
+END

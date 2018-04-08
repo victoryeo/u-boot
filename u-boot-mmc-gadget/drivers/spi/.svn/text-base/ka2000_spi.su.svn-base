@@ -1,0 +1,10 @@
+ka2000_spi.c:62:13:ka_ssi_WaitReady	8	static
+ka2000_spi.c:116:13:ka_ssi_cs	8	static
+ka2000_spi.c:77:12:2	16	static
+ka2000_spi.c:143:6:spi_init	8	static
+ka2000_spi.c:153:5:spi_cs_is_valid	0	static
+ka2000_spi.c:159:19:spi_setup_slave	24	static
+ka2000_spi.c:187:6:spi_free_slave	0	static
+ka2000_spi.c:194:5:spi_claim_bus	8	static
+ka2000_spi.c:201:6:spi_release_bus	0	static
+ka2000_spi.c:248:6:spi_xfer	24	static
